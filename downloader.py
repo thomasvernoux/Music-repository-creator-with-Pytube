@@ -81,5 +81,8 @@ if __name__ == "__main__":
                 # Iterate through each URL in the playlist_urls list
                 for playlist_url in playlist_urls:
                     # Call the download_best_audio function with the playlist URL and folder name
-                    download_best_audio(playlist_url, folder_name)
+                    try : 
+                        download_best_audio(playlist_url, folder_name)
+                    except : 
+                        print("exception error")
             
