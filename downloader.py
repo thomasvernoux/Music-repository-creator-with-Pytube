@@ -8,15 +8,42 @@ def download_best_audio(playlist_url, folder_name):
         yt = YouTube(video)
         audio_stream = yt.streams.filter(only_audio=True).order_by('abr').desc().first()
         if audio_stream:
+
+            # Générer le nom de fichier pour la chanson
+            file_name = f'audio_{yt.title}.mp3'
+            # Vérifier si le fichier existe déjà dans le répertoire cible
+            if os.path.exists(os.path.join('audio', folder_name, file_name)):
+                print(f"{file_name} already exists. Skipping...")
+                continue  # Passer à la prochaine chanson
+
             print(f"Downloading {yt.title}...")
+            
             # Create directory if it doesn't exist
             if not os.path.exists('audio'):
                 os.makedirs('audio')
             output_dir = os.path.join('audio', folder_name)
             if not os.path.exists(output_dir):
                 os.makedirs(output_dir)
+
+
+
+            # Check if the audio file already exists in the target directory or any subdirectories
+            mp3_file_found = False
+            for root, dirs, files in os.walk(output_dir):
+                for file in files:
+                    if file.endswith('.mp3') and file.startswith(yt.title):
+                        mp3_file_found = True
+                        break
+                if mp3_file_found:
+                    break
+            
+            if mp3_file_found:
+                print(f"{yt.title} is already downloaded. Skipping...")
+                continue
+
+
             # Download the audio stream to the 'audio' directory
-            audio_path = audio_stream.download(output_path=output_dir, filename_prefix='audio_')
+            audio_path = audio_stream.download(output_path=output_dir)
             print(f"{yt.title} downloaded successfully.")
 
             # Convert the downloaded audio file to MP3
@@ -55,6 +82,4 @@ if __name__ == "__main__":
                 for playlist_url in playlist_urls:
                     # Call the download_best_audio function with the playlist URL and folder name
                     download_best_audio(playlist_url, folder_name)
-            else:
-                # Call the download_best_audio function with the URL and an empty folder name
-                download_best_audio(line, '')
+            
