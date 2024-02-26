@@ -3,28 +3,20 @@ from moviepy.editor import AudioFileClip  # Import the AudioFileClip class from 
 import os  # Import the os module for interacting with the operating system
 
 def download_best_audio(playlist_url, folder_name):
-    # Create a Playlist object for the given playlist URL
     playlist = Playlist(playlist_url)
-    
-    # Iterate through each video URL in the playlist
     for video in playlist.video_urls:
-        # Create a YouTube object for the video URL
         yt = YouTube(video)
-        
-        # Filter streams to get only audio streams, then order by audio bitrate in descending order
         audio_stream = yt.streams.filter(only_audio=True).order_by('abr').desc().first()
-        
-        # Check if an audio stream is available
         if audio_stream:
-            # Print a message indicating the start of the download process
             print(f"Downloading {yt.title}...")
-            
             # Create directory if it doesn't exist
-            if not os.path.exists(folder_name):
-                os.makedirs(folder_name)
-            
-            # Download the audio stream to the folder directory
-            audio_path = audio_stream.download(output_path=folder_name, filename_prefix='audio_')
+            if not os.path.exists('audio'):
+                os.makedirs('audio')
+            output_dir = os.path.join('audio', folder_name)
+            if not os.path.exists(output_dir):
+                os.makedirs(output_dir)
+            # Download the audio stream to the 'audio' directory
+            audio_path = audio_stream.download(output_path=output_dir, filename_prefix='audio_')
             print(f"{yt.title} downloaded successfully.")
 
             # Convert the downloaded audio file to MP3
@@ -37,10 +29,8 @@ def download_best_audio(playlist_url, folder_name):
             os.remove(audio_path)
             print(f".webm file deleted for {yt.title}")
 
-            # Print a message indicating successful conversion
             print(f"Conversion to MP3 completed for {yt.title}.")
         else:
-            # Print a message if no audio stream is available for the video
             print(f"No audio stream available for {yt.title}.")
 
 if __name__ == "__main__":
