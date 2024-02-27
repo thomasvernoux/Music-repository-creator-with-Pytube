@@ -1,6 +1,19 @@
 from pytube import Playlist, YouTube  # Import the Playlist and YouTube classes from the pytube library
 from moviepy.editor import AudioFileClip  # Import the AudioFileClip class from the moviepy.editor library
 import os  # Import the os module for interacting with the operating system
+import re
+
+def remove_special_characters(input_string):
+    # Remove emojis
+    input_string = input_string.encode('ascii', 'ignore').decode('ascii')
+
+    # Define allowed characters including slashes and periods
+    allowed_characters = r'[a-zA-Z0-9\s\\/.-]'
+
+    # Remove special characters using regex
+    input_string = re.sub(fr'[^{allowed_characters}]', '', input_string)
+
+    return input_string
 
 def download_best_audio(playlist_url, folder_name):
     playlist = Playlist(playlist_url)
@@ -11,6 +24,8 @@ def download_best_audio(playlist_url, folder_name):
 
             # Générer le nom de fichier pour la chanson
             file_name = f'audio_{yt.title}.mp3'
+            print("Songname without special charracters : ", remove_special_characters(yt.title))
+            
             # Vérifier si le fichier existe déjà dans le répertoire cible
             if os.path.exists(os.path.join('audio', folder_name, file_name)):
                 print(f"{file_name} already exists. Skipping...")
@@ -44,11 +59,12 @@ def download_best_audio(playlist_url, folder_name):
 
             # Download the audio stream to the 'audio' directory
             audio_path = audio_stream.download(output_path=output_dir)
+            print("audio path : ", audio_path)
             print(f"{yt.title} downloaded successfully.")
 
             # Convert the downloaded audio file to MP3
             mp4_audio = AudioFileClip(audio_path)
-            mp3_audio_path = os.path.splitext(audio_path)[0] + '.mp3'
+            mp3_audio_path = remove_special_characters(os.path.splitext(audio_path)[0] + '.mp3')
             mp4_audio.write_audiofile(mp3_audio_path)
             mp4_audio.close()
 
@@ -62,7 +78,7 @@ def download_best_audio(playlist_url, folder_name):
 
 if __name__ == "__main__":
     # Open the file 'urls.txt' for reading
-    with open('urls.txt', 'r') as file:
+    with open('downloader playlist/urls.txt', 'r') as file:
         # Read each line, remove leading/trailing whitespace, and filter out lines starting with '#'
         lines = [line.strip() for line in file.readlines() if line.strip() and not line.startswith('#')]
     
@@ -83,6 +99,8 @@ if __name__ == "__main__":
                     # Call the download_best_audio function with the playlist URL and folder name
                     try : 
                         download_best_audio(playlist_url, folder_name)
-                    except : 
-                        print("exception error")
+                    except Exception as e:
+                        print("Exception error:", e)
+                        
+
             

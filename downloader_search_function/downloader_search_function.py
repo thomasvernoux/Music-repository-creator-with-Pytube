@@ -2,11 +2,24 @@ from pytube import YouTube
 from moviepy.editor import AudioFileClip
 import os
 from pytube import Search
+import re
+
 
 playlist_name = "coups de coeur deezer avec search.txt"
 
+
+def remove_special_characters(input_string):
+    # Remplacer les emojis par une chaîne vide
+    input_string = input_string.encode('ascii', 'ignore').decode('ascii')
+
+    # Supprimer les caractères spéciaux à l'aide d'une expression régulière
+    input_string = re.sub(r'[^\w\s.]', '', input_string)
+
+    return input_string
+
 def download_best_audio_from_search(song_name, folder_name):
     results = Search(song_name)
+    
     if len(results.results) > 0:
         yt = results.results[0]
         audio_stream = yt.streams.filter(only_audio=True).order_by('abr').desc().first()
@@ -33,7 +46,7 @@ def download_best_audio_from_search(song_name, folder_name):
 
             # Convert the downloaded audio file to MP3
             mp4_audio = AudioFileClip(audio_path)
-            mp3_audio_path = os.path.splitext(audio_path)[0] + '.mp3'
+            mp3_audio_path = remove_special_characters(os.path.splitext(audio_path)[0] + '.mp3')
             mp4_audio.write_audiofile(mp3_audio_path)
             mp4_audio.close()
 
@@ -53,3 +66,17 @@ if __name__ == "__main__":
     
     for line in lines:
         download_best_audio_from_search(line, playlist_name)
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
