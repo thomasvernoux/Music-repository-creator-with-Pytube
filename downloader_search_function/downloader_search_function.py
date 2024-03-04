@@ -4,9 +4,11 @@ import os
 from pytube import Search
 import re
 import traceback
+from playlist_m3u import *
 
 
-playlist_name = "z footing 32.txt"
+
+playlist_name = "playlist_test.txt"
 
 
 def remove_special_characters(input_string):
@@ -36,7 +38,7 @@ def download_best_audio_from_search(song_name, folder_name):
         # Vérifier si le fichier existe déjà dans le répertoire cible
         if os.path.exists(os.path.join(folder_name, remove_special_characters(file_name))):
             print(f"{file_name} already exists. Skipping...")
-            return  # Passer à la prochaine chanson
+            return f"audio/{folder_name}/{mp3_filename}"  # Passer à la prochaine chanson
 
        
         # download directory
@@ -49,6 +51,8 @@ def download_best_audio_from_search(song_name, folder_name):
         # download the audio
         print(f"Downloading {yt.title}...")
         # Download the audio stream to the 'audio' directory
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
         audio_path = audio_stream.download(output_path=output_dir, filename=f"{remove_special_characters(yt.title)}.webm")
         print(f"{yt.title} downloaded successfully.")
         print("audio path : ", audio_path)
@@ -77,20 +81,42 @@ def download_best_audio_from_search(song_name, folder_name):
         print(f"Conversion to MP3 completed for {yt.title}.")
     else:
         print(f"No audio stream available for {yt.title}.")
+        return None
+
+    return f"audio/{folder_name}/{mp3_filename}"
 
 
 if __name__ == "__main__":
+
+
+    
+
+
     with open('downloader_search_function/' + playlist_name, 'r') as file:
         lines = [line.strip() for line in file.readlines() if line.strip() and not line.startswith('#')]
+
+
+    
+
 
     for line in lines:
         try : 
             foldername = base_name = os.path.splitext(playlist_name)[0]
-            download_best_audio_from_search(line, foldername)
+            path = download_best_audio_from_search(line, foldername)
+            
+
         except Exception as e:
             # Capturer l'exception et imprimer la trace
             print("Une exception s'est produite :")
             traceback.print_exc()
+
+    ## create the m3u playlist
+    create_playlist_m3u(f'./audio/{playlist_name}', playlist_name)
+            
+    
+
+
+
 
 
 
