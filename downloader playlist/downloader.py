@@ -77,13 +77,19 @@ def download_best_audio(playlist_url, folder_name):
             print(f"No audio stream available for {yt.title}.")
 
 if __name__ == "__main__":
+
+    # Créer une liste pour stocker les lignes modifiées
+    modified_lines = []
+
+
     # Open the file 'urls.txt' for reading
     with open('downloader playlist/urls.txt', 'r') as file:
         # Read each line, remove leading/trailing whitespace, and filter out lines starting with '#'
-        lines = [line.strip() for line in file.readlines() if line.strip() and not line.startswith('#')]
+        lines = file.readlines()
     
     # Iterate through each line in the filtered lines
-    for line in lines:
+    for line_number in range(len(lines)):
+        line = lines[line_number]
         # Check if the line doesn't start with '#'
         if line[0] != "#":
             # Check if the line contains ':', indicating a playlist with a name
@@ -101,6 +107,25 @@ if __name__ == "__main__":
                         download_best_audio(playlist_url, folder_name)
                     except Exception as e:
                         print("Exception error:", e)
+                lines[line_number] = "#" + line[:]
+            print("lines : ", lines)
+
+        # Réécrire le fichier avec les lignes modifiées
+        with open('downloader playlist/urls.txt', 'w') as file:
+            for line in lines:
+                file.write(line)
+
+            
+
+    # Réécrire le fichier avec les lignes modifiées
+    with open('downloader playlist/urls.txt', 'w') as file:
+        for line in modified_lines:
+            file.write(line)
                         
+
+
+
+
+
 
             

@@ -23,8 +23,8 @@
 #Indochine Unita : https://www.youtube.com/watch?v=VTuSWpjorX8&list=PL03-W3RPI-VsxMcWi93RCct2ECLT0eaGb
 #Inodchine Black city parade : https://www.youtube.com/watch?v=iuEcAc-zIXc&list=PLiN-7mukU_RFEwcDatYTgFF8PZRFB9TuO
 #
-#Interpol
-#Interpol - Antics : https://www.youtube.com/watch?v=dkpgz3uQ58U&list=PLnO2_CazSA1KvSCb2dD1_eGA4TkGHy1GH
+Interpol
+Interpol - Antics : https://www.youtube.com/watch?v=dkpgz3uQ58U&list=PLnO2_CazSA1KvSCb2dD1_eGA4TkGHy1GH
 
 #Johnny halliday 
 #Johnny Halliday best of : https://www.youtube.com/watch?v=Xs-_NZ0LhrA&list=PLzPMWQBYT91TLF2HjrEFwNx5S-Q0mY9fE
@@ -54,14 +54,14 @@
 #Téléphone Mix : https://www.youtube.com/watch?v=OGNhncQLQJA&list=RDEM1meYlu09Fx1JEH-_75B5PA&start_radio=1
 #
 The Beatles
-#The Beatles - Please Please Me : https://www.youtube.com/watch?v=oxwAB3SECtc&list=PLF8degF-CITi6MhbrOOuk10yLb6JZLiSY
-#The Beatles - With the Beatles : https://www.youtube.com/watch?v=UVKU6SevefY&list=PLg5pp7nrH0IpuSvDewjv5dyN4mhSfCDIy
-#The Beatles - Hard Day's Night remastered : https://www.youtube.com/watch?v=5en2JMLA8Z0&list=PLg5pp7nrH0IpMgINFt8exmlusHYqLz2Z-
-#The Beatles - Beatles for Sale (1964) : https://www.youtube.com/watch?v=YgFo9STa70E&list=PLg5pp7nrH0IpvcHKYX3aSSu08SVk5wXAv
-#The Beatles - Help! (1965) : https://www.youtube.com/watch?v=MKUex3fci5c&list=PLg5pp7nrH0IqxG_fMDG0mlqX370g_8NiS
-#The Beatles - Rubber Soul (1965) : https://www.youtube.com/watch?v=kfSQkZuIx84&list=PLg5pp7nrH0IqPGI0VUZ8TTynXkomhyVaD
-#The Beatles - Revolver (1966): https://www.youtube.com/watch?v=l0zaebtU-CA&list=PLg5pp7nrH0IqV2ESEZmmgWtECbzkS8d3O
-#The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967) : https://www.youtube.com/watch?v=VtXl8xAPAtA&list=PL3PhWT10BW3VDM5IcVodrdUpVIhU8f7Z-
+The Beatles - Please Please Me : https://www.youtube.com/watch?v=oxwAB3SECtc&list=PLF8degF-CITi6MhbrOOuk10yLb6JZLiSY
+The Beatles - With the Beatles : https://www.youtube.com/watch?v=UVKU6SevefY&list=PLg5pp7nrH0IpuSvDewjv5dyN4mhSfCDIy
+The Beatles - Hard Day's Night remastered : https://www.youtube.com/watch?v=5en2JMLA8Z0&list=PLg5pp7nrH0IpMgINFt8exmlusHYqLz2Z-
+The Beatles - Beatles for Sale (1964) : https://www.youtube.com/watch?v=YgFo9STa70E&list=PLg5pp7nrH0IpvcHKYX3aSSu08SVk5wXAv
+The Beatles - Help! (1965) : https://www.youtube.com/watch?v=MKUex3fci5c&list=PLg5pp7nrH0IqxG_fMDG0mlqX370g_8NiS
+The Beatles - Rubber Soul (1965) : https://www.youtube.com/watch?v=kfSQkZuIx84&list=PLg5pp7nrH0IqPGI0VUZ8TTynXkomhyVaD
+The Beatles - Revolver (1966): https://www.youtube.com/watch?v=l0zaebtU-CA&list=PLg5pp7nrH0IqV2ESEZmmgWtECbzkS8d3O
+The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967) : https://www.youtube.com/watch?v=VtXl8xAPAtA&list=PL3PhWT10BW3VDM5IcVodrdUpVIhU8f7Z-
 The Beatles - The Beatles (1968) : https://www.youtube.com/watch?v=pt_zgUqoyWI&list=PL5xjwTzUZrBq2u8WYDpoWoEKJd59UHfC8
 The Beatles - Yellow Submarine (1969) : https://www.youtube.com/watch?v=ztHxu-13UqI&list=PLeV1mJs_wDvpVNrldocPOoHpuNCHbusP5
 The Beatles - Abbey Road (1969): https://www.youtube.com/watch?v=oolpPmuK2I8&list=PLPMRFtA0BgE6ce0olKAwrKffd-V170IEC
