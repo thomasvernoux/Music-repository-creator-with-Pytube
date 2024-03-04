@@ -4,6 +4,11 @@ import os  # Import the os module for interacting with the operating system
 import re
 
 def remove_special_characters(input_string):
+    """
+    This function is used to transform a input string into output string without specials caracters
+    
+    """
+
     # Remove emojis
     input_string = input_string.encode('ascii', 'ignore').decode('ascii')
 
@@ -12,28 +17,35 @@ def remove_special_characters(input_string):
 
     # Remove special characters using regex
     input_string = re.sub(fr'[^{allowed_characters}]', '', input_string)
+
+    # remove '
     input_string = re.sub("'", '', input_string)
     
-
     return input_string
 
 def download_best_audio(playlist_url, folder_name):
-    playlist = Playlist(playlist_url)
-    for video in playlist.video_urls:
-        yt = YouTube(video)
+    """
+    This function is used to download the best audio of a playlist tracks
+    input : 
+    @playlist URL : Youtube URL of the playlist
+    @folder name : download destination
+    """
+
+    playlist = Playlist(playlist_url)    # create the playlist object
+    for video in playlist.video_urls:  
+        yt = YouTube(video)              # create video object
         audio_stream = yt.streams.filter(only_audio=True).order_by('abr').desc().first()
         if audio_stream:
 
-            # Générer le nom de fichier pour la chanson
+            # Generate a name for the song
             file_name = f'{yt.title}.mp3'
-            print("Songname without special charracters : ", remove_special_characters(yt.title))
             
-            # Vérifier si le fichier existe déjà dans le répertoire cible
+            # Check if the audio file already exist
             test_path = os.path.join('audio', folder_name, remove_special_characters(file_name))
             exist  = os.path.exists(test_path)
             if exist:
                 print(f"{file_name} already exists. Skipping...")
-                continue  # Passer à la prochaine chanson
+                continue  # Go to the next song
 
             print(f"Downloading {yt.title}...")
             
@@ -61,15 +73,14 @@ def download_best_audio(playlist_url, folder_name):
             print(f".webm file deleted for {yt.title}")
 
             print(f"Conversion to MP3 completed for {yt.title}.")
+        
+        
         else:
             print(f"No audio stream available for {yt.title}.")
 
 if __name__ == "__main__":
 
     current_artist = None
-
-
-
 
     # Open the file 'urls.txt' for reading
     with open('downloader playlist/urls.txt', 'r') as file:
@@ -80,16 +91,20 @@ if __name__ == "__main__":
     for line_number in range(len(lines)):
         line = lines[line_number]
 
+        # Check if the line describe an artist
         if line.startswith("Artist :") :
+            # this line is the beginning of a new artist section
             current_artist = line.split(":")[1].strip()
             continue
 
         # Check if the line doesn't start with '#'
         if line[0] == "#":
+            # The album has not to be downloaded
             continue
         
         # Check if the line contains ':', indicating a playlist with a name
         if not(':' in line):
+            # The line is not an download instruction
             continue
 
 
@@ -117,7 +132,7 @@ if __name__ == "__main__":
 
     # Réécrire le fichier avec les lignes modifiées
     with open('downloader playlist/urls.txt', 'w') as file:
-        for line in modified_lines:
+        for line in lines:
             file.write(line)
                         
 
