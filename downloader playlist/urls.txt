@@ -1,3 +1,4 @@
+Artist : ACDC
 #ACDC : https://www.youtube.com/watch?v=v2AC41dglnM&list=PLQlc99hV-nkGWDaG-gJxwOfqp8jxyHaaQ
 #ACDC Back in Black : https://www.youtube.com/watch?v=GL56LY6fE0E&list=PLzqsoINOR51ZNYuuINo2XVKJu9PQtAcdK
 #ACDC Highway to Hell : https://www.youtube.com/watch?v=4hhlQU0zDpA&list=PLx1MDbsLNfVRQ9AOtjH3sgAlwRP80yWGe
@@ -10,35 +11,36 @@
 #ACDC Ballbreaker (1995) - https://www.youtube.com/watch?v=lplvDCAueZA&list=PLBnJv6rImVe9p6lTZjPWL7W6T1fLtC7ul
 #ACDC Power Up (2020) - https://www.youtube.com/watch?v=Ba2V_SRsGhk&list=PLfiMjLyNWxeYdqCG4m90uJKHgGxNns7YN
 
-#Black M
+Artist : Black M
 #Black M Les gros Yeux : https://www.youtube.com/watch?v=19rzrT7xyJ8&list=PL9jMvuXiQpmUJOMwfY-hQHcQmG3xfjCNP
 #Black M Les yeux plus gros que le monde : https://www.youtube.com/watch?v=19rzrT7xyJ8&list=PLLLXWPtKay8O3XkNW2Ir0wAIBclLgIaLN
 #
-#Eminem
+Artist : Eminem
 #Eimnem - Best Of : https://www.youtube.com/watch?v=_Yhyp-_hX2s&list=PLMEZyDHJojxNlKL-Pk06Za-1SMlBdQEMG
 
-#Indochine
+Artist : Indochine
 #Indochine Best Of : https://www.youtube.com/watch?v=eP1iPYtHSy0&list=PLasDED1MNcveCRfVKmzkvZ3aC2b95QS0j
 #Indochine Integrale : https://www.youtube.com/watch?v=09BJyzWUesw&list=PL-MYmIu86IpVWnuba2mZ85z-kz9g_xHgL
 #Indochine Unita : https://www.youtube.com/watch?v=VTuSWpjorX8&list=PL03-W3RPI-VsxMcWi93RCct2ECLT0eaGb
 #Inodchine Black city parade : https://www.youtube.com/watch?v=iuEcAc-zIXc&list=PLiN-7mukU_RFEwcDatYTgFF8PZRFB9TuO
 #
-#Interpol
+Artist : Interpol
 #Interpol - Antics : https://www.youtube.com/watch?v=dkpgz3uQ58U&list=PLnO2_CazSA1KvSCb2dD1_eGA4TkGHy1GH
 
-#Johnny halliday 
+Artist : Johnny halliday 
 #Johnny Halliday best of : https://www.youtube.com/watch?v=Xs-_NZ0LhrA&list=PLzPMWQBYT91TLF2HjrEFwNx5S-Q0mY9fE
 
-#Maneskin
+Artist : Maneskin
 #Maneskin - Rush : https://www.youtube.com/watch?v=LRApJG5WdIg&list=PLxA687tYuMWidK233I7SZ0NnnuiRb8szF
 
-#Oasis
+Artist : Oasis
 #Oasis - Best songs : https://www.youtube.com/watch?v=bx1Bh8ZvH84&list=PLMEZyDHJojxPndMRFPzCZ1T7RgzlHWBUb
 
-#Pink Floyd
+Artist : Pink Floyd
 #Pink Floyd - The Wall :https://www.youtube.com/watch?v=iLFwTqdsuxw&list=PLyDzU3p8FP24syYfTXpGqTDHsQhlxwllS
 
-#Rammstein : https://www.youtube.com/watch?v=PBvwcH4XX6U&list=PLOUzUrKhNae51rhMgkY_v1BWWISuvjmkk
+Artist : Rammstein
+#Rammstein mix : https://www.youtube.com/watch?v=PBvwcH4XX6U&list=PLOUzUrKhNae51rhMgkY_v1BWWISuvjmkk
 #Rammstein - Rammstein (2019) : https://www.youtube.com/watch?v=vGtaDvhSxaI&list=PLLZUjlvnKF05z2tBOAxmvNnagcU2-aHe7
 #Rammstein - Liebe ist fur alle da (2009) : https://www.youtube.com/watch?v=vUA7ff_wLMo&list=PLiN-7mukU_RHBYiR5Mhb29_w-JI5fo1Jw
 #Rammstein - Rosenrot (2005) : https://www.youtube.com/watch?v=R8lmtUfBG9I&list=PLbNerdatptfi65NuKBiz72lLZgpm7VJoq
@@ -47,35 +49,36 @@
 #Rammstein - Sehnsucht (1997) : https://www.youtube.com/watch?v=ZXjNjuLOi_k&list=PLLZUjlvnKF04buS7bDLszuW-lNl-_Wgs_
 #Rammstein - Herzeleid (1995): https://www.youtube.com/watch?v=uFM89wgvXBc&list=PLfEZ2UIciT73a42hQslGpHcv_MmR393mb
 
-#Shaka Ponk
+Artist : Shaka Ponk
 #Shaka Ponk Best Of : https://www.youtube.com/watch?v=EF2PGnZmXCI&list=PLMEZyDHJojxNjp8fxfCtda8kmzMowOMRE
-#
-#Téléphone
+
+Artist : Téléphone
 #Téléphone Mix : https://www.youtube.com/watch?v=OGNhncQLQJA&list=RDEM1meYlu09Fx1JEH-_75B5PA&start_radio=1
 #
-The Beatles
-#The Beatles - Please Please Me : https://www.youtube.com/watch?v=oxwAB3SECtc&list=PLF8degF-CITi6MhbrOOuk10yLb6JZLiSY
-#The Beatles - With the Beatles : https://www.youtube.com/watch?v=UVKU6SevefY&list=PLg5pp7nrH0IpuSvDewjv5dyN4mhSfCDIy
-#The Beatles - Hard Day's Night remastered : https://www.youtube.com/watch?v=5en2JMLA8Z0&list=PLg5pp7nrH0IpMgINFt8exmlusHYqLz2Z-
-#The Beatles - Beatles for Sale (1964) : https://www.youtube.com/watch?v=YgFo9STa70E&list=PLg5pp7nrH0IpvcHKYX3aSSu08SVk5wXAv
-#The Beatles - Help! (1965) : https://www.youtube.com/watch?v=MKUex3fci5c&list=PLg5pp7nrH0IqxG_fMDG0mlqX370g_8NiS
-#The Beatles - Rubber Soul (1965) : https://www.youtube.com/watch?v=kfSQkZuIx84&list=PLg5pp7nrH0IqPGI0VUZ8TTynXkomhyVaD
-#The Beatles - Revolver (1966): https://www.youtube.com/watch?v=l0zaebtU-CA&list=PLg5pp7nrH0IqV2ESEZmmgWtECbzkS8d3O
-#The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967) : https://www.youtube.com/watch?v=VtXl8xAPAtA&list=PL3PhWT10BW3VDM5IcVodrdUpVIhU8f7Z-
-The Beatles - The Beatles (1968) : https://www.youtube.com/watch?v=pt_zgUqoyWI&list=PL5xjwTzUZrBq2u8WYDpoWoEKJd59UHfC8
-The Beatles - Yellow Submarine (1969) : https://www.youtube.com/watch?v=ztHxu-13UqI&list=PLeV1mJs_wDvpVNrldocPOoHpuNCHbusP5
-The Beatles - Abbey Road (1969): https://www.youtube.com/watch?v=oolpPmuK2I8&list=PLPMRFtA0BgE6ce0olKAwrKffd-V170IEC
-The Beatles - Let It Be (1970) : https://www.youtube.com/watch?v=dwtaADfz2WU&list=PLeV1mJs_wDvoeWFejRIvpGTNSn-hdG49c
+Artist : The Beatles
+#Please Please Me : https://www.youtube.com/watch?v=oxwAB3SECtc&list=PLF8degF-CITi6MhbrOOuk10yLb6JZLiSY
+#With the Beatles : https://www.youtube.com/watch?v=UVKU6SevefY&list=PLg5pp7nrH0IpuSvDewjv5dyN4mhSfCDIy
+#Hard Day's Night remastered : https://www.youtube.com/watch?v=5en2JMLA8Z0&list=PLg5pp7nrH0IpMgINFt8exmlusHYqLz2Z-
+Beatles for Sale (1964) : https://www.youtube.com/watch?v=YgFo9STa70E&list=PLg5pp7nrH0IpvcHKYX3aSSu08SVk5wXAv
+Help! (1965) : https://www.youtube.com/watch?v=MKUex3fci5c&list=PLg5pp7nrH0IqxG_fMDG0mlqX370g_8NiS
+Rubber Soul (1965) : https://www.youtube.com/watch?v=kfSQkZuIx84&list=PLg5pp7nrH0IqPGI0VUZ8TTynXkomhyVaD
+Revolver (1966): https://www.youtube.com/watch?v=l0zaebtU-CA&list=PLg5pp7nrH0IqV2ESEZmmgWtECbzkS8d3O
+Sgt. Pepper's Lonely Hearts Club Band (1967) : https://www.youtube.com/watch?v=VtXl8xAPAtA&list=PL3PhWT10BW3VDM5IcVodrdUpVIhU8f7Z-
+The Beatles (1968) : https://www.youtube.com/watch?v=pt_zgUqoyWI&list=PL5xjwTzUZrBq2u8WYDpoWoEKJd59UHfC8
+Yellow Submarine (1969) : https://www.youtube.com/watch?v=ztHxu-13UqI&list=PLeV1mJs_wDvpVNrldocPOoHpuNCHbusP5
+Abbey Road (1969): https://www.youtube.com/watch?v=oolpPmuK2I8&list=PLPMRFtA0BgE6ce0olKAwrKffd-V170IEC
+Let It Be (1970) : https://www.youtube.com/watch?v=dwtaADfz2WU&list=PLeV1mJs_wDvoeWFejRIvpGTNSn-hdG49c
 
-#The Black Keys
+Artist : The Black Keys
 #The black keys - El Camino : https://www.youtube.com/watch?v=9DYPfItb2fk&list=PL81_CtYCym28wjmLK7DadBj3TVZB-FpMQ
 
-#The police
+Artist : The police
 #The police - Gratest hits : https://www.youtube.com/watch?v=Cdu3a2arXdw&list=PLh1N75AiDBAC7Y--RxtxLn3AtvHIPM8gt
-#U2
+
+Artist : U2
 #U2 Best Of : https://www.youtube.com/watch?v=QdR-AONQ23U&list=PL0n75a7HekRJneQyEbIbJOSWo1ChCubr3
 #
-#Others
+Artist : Others
 #Just dance : https://www.youtube.com/watch?v=MJTEt4aPhFQ&list=PLKILxJF99QvEgfY_lUdqcoSeXQuHfldbr
 
 

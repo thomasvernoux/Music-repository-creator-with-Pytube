@@ -12,6 +12,8 @@ def remove_special_characters(input_string):
 
     # Remove special characters using regex
     input_string = re.sub(fr'[^{allowed_characters}]', '', input_string)
+    input_string = re.sub("'", '', input_string)
+    
 
     return input_string
 
@@ -23,11 +25,13 @@ def download_best_audio(playlist_url, folder_name):
         if audio_stream:
 
             # Générer le nom de fichier pour la chanson
-            file_name = f'audio_{yt.title}.mp3'
+            file_name = f'{yt.title}.mp3'
             print("Songname without special charracters : ", remove_special_characters(yt.title))
             
             # Vérifier si le fichier existe déjà dans le répertoire cible
-            if os.path.exists(os.path.join('audio', folder_name, file_name)):
+            test_path = os.path.join('audio', folder_name, remove_special_characters(file_name))
+            exist  = os.path.exists(test_path)
+            if exist:
                 print(f"{file_name} already exists. Skipping...")
                 continue  # Passer à la prochaine chanson
 
@@ -39,22 +43,6 @@ def download_best_audio(playlist_url, folder_name):
             output_dir = os.path.join('audio', folder_name)
             if not os.path.exists(output_dir):
                 os.makedirs(output_dir)
-
-
-
-            # Check if the audio file already exists in the target directory or any subdirectories
-            mp3_file_found = False
-            for root, dirs, files in os.walk(output_dir):
-                for file in files:
-                    if file.endswith('.mp3') and file.startswith(yt.title):
-                        mp3_file_found = True
-                        break
-                if mp3_file_found:
-                    break
-            
-            if mp3_file_found:
-                print(f"{yt.title} is already downloaded. Skipping...")
-                continue
 
 
             # Download the audio stream to the 'audio' directory
@@ -78,8 +66,9 @@ def download_best_audio(playlist_url, folder_name):
 
 if __name__ == "__main__":
 
-    # Créer une liste pour stocker les lignes modifiées
-    modified_lines = []
+    current_artist = None
+
+
 
 
     # Open the file 'urls.txt' for reading
@@ -90,25 +79,34 @@ if __name__ == "__main__":
     # Iterate through each line in the filtered lines
     for line_number in range(len(lines)):
         line = lines[line_number]
+
+        if line.startswith("Artist :") :
+            current_artist = line.split(":")[1].strip()
+            continue
+
         # Check if the line doesn't start with '#'
-        if line[0] != "#":
-            # Check if the line contains ':', indicating a playlist with a name
-            if ':' in line:
-                # Split the line into name and URL
-                name, url = line.split(':', 1)
-                # Remove leading/trailing whitespace from the name and use it as the folder name
-                folder_name = name.strip()
-                # Split the URL by ',' if multiple URLs are provided
-                playlist_urls = [url.strip() for url in url.split(',')]
-                # Iterate through each URL in the playlist_urls list
-                for playlist_url in playlist_urls:
-                    # Call the download_best_audio function with the playlist URL and folder name
-                    try : 
-                        download_best_audio(playlist_url, folder_name)
-                    except Exception as e:
-                        print("Exception error:", e)
-                lines[line_number] = "#" + line[:]
-            print("lines : ", lines)
+        if line[0] == "#":
+            continue
+        
+        # Check if the line contains ':', indicating a playlist with a name
+        if not(':' in line):
+            continue
+
+
+        # Split the line into name and URL
+        name, url = line.split(':', 1)
+        # Remove leading/trailing whitespace from the name and use it as the folder name
+        folder_name = f"{current_artist}/{name.strip()}"
+        # Split the URL by ',' if multiple URLs are provided
+        playlist_urls = [url.strip() for url in url.split(',')]
+        # Iterate through each URL in the playlist_urls list
+        for playlist_url in playlist_urls:
+            # Call the download_best_audio function with the playlist URL and folder name
+            try : 
+                download_best_audio(playlist_url, folder_name)
+            except Exception as e:
+                print("Exception error:", e)
+        lines[line_number] = "#" + line[:]
 
         # Réécrire le fichier avec les lignes modifiées
         with open('downloader playlist/urls.txt', 'w') as file:
