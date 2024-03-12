@@ -88,16 +88,8 @@ def download_best_audio_from_search(song_name, folder_name):
 
 if __name__ == "__main__":
 
-
-    
-
-
     with open('downloader_search_function/' + playlist_name, 'r') as file:
         lines = [line.strip() for line in file.readlines() if line.strip() and not line.startswith('#')]
-
-
-    
-
 
     for line in lines:
         try : 
@@ -111,7 +103,7 @@ if __name__ == "__main__":
             traceback.print_exc()
 
     ## create the m3u playlist
-    create_playlist_m3u(f'./audio/{playlist_name}', playlist_name)
+    create_playlist_m3u(f'audio/{foldername}', playlist_name)
             
     
 

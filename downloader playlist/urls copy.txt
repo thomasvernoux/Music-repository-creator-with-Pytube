@@ -18,16 +18,16 @@ Artist : Bakermat
 #Releases : https://www.youtube.com/watch?v=CuiLsq7j_oY&list=PLkt97dAk8QOCoXTofez_mrXtQilrgykDA&pp=iAQB
 
 Artist : Beethoven 
-#Mix : https://www.youtube.com/watch?v=hh7lNB5V74Y&list=PL_xXZCm82ZklJlxjcZjS87kf8tdf2_0SW
+Mix : https://www.youtube.com/watch?v=hh7lNB5V74Y&list=PL_xXZCm82ZklJlxjcZjS87kf8tdf2_0SW
 
 Artist : Black M
 #Black M Les gros Yeux : https://www.youtube.com/watch?v=19rzrT7xyJ8&list=PL9jMvuXiQpmUJOMwfY-hQHcQmG3xfjCNP
 #Black M Les yeux plus gros que le monde : https://www.youtube.com/watch?v=19rzrT7xyJ8&list=PLLLXWPtKay8O3XkNW2Ir0wAIBclLgIaLN
 
 Artist : Brother Dege
-#Sear Earth Policy : https://www.youtube.com/watch?v=ABaZnge0l1s&list=PLtJPZTHaNKrUjd4hwO9dhnyAqavzaMAZV 
-#How to kill a horse : https://www.youtube.com/watch?v=69JZISbM_6c&list=PLDGkLoz_StY7wp4DNJ-PWalORXPKV2Bht
-#Scorched earth : https://www.youtube.com/watch?v=reQ7CL4LV74&list=PLDGkLoz_StY57c1_iSuTk83e1FBJ_rS9j
+Sear Earth Policy : https://www.youtube.com/watch?v=ABaZnge0l1s&list=PLtJPZTHaNKrUjd4hwO9dhnyAqavzaMAZV 
+How to kill a horse : https://www.youtube.com/watch?v=69JZISbM_6c&list=PLDGkLoz_StY7wp4DNJ-PWalORXPKV2Bht
+Scorched earth : https://www.youtube.com/watch?v=reQ7CL4LV74&list=PLDGkLoz_StY57c1_iSuTk83e1FBJ_rS9j
 
 Artist : David Guetta
 #Babe don't hurt me : https://www.youtube.com/watch?v=k3DBmAlUh1A&list=PLz1iM8YfFbTcqNChnY1uwvYTn8wxuTiZ7&pp=iAQB
@@ -47,7 +47,7 @@ Artist : Indochine
 #Indochine Integrale : https://www.youtube.com/watch?v=09BJyzWUesw&list=PL-MYmIu86IpVWnuba2mZ85z-kz9g_xHgL
 #Indochine Unita : https://www.youtube.com/watch?v=VTuSWpjorX8&list=PL03-W3RPI-VsxMcWi93RCct2ECLT0eaGb
 #Inodchine Black city parade : https://www.youtube.com/watch?v=iuEcAc-zIXc&list=PLiN-7mukU_RFEwcDatYTgFF8PZRFB9TuO
-#
+
 Artist : Interpol
 #Interpol - Antics : https://www.youtube.com/watch?v=dkpgz3uQ58U&list=PLnO2_CazSA1KvSCb2dD1_eGA4TkGHy1GH
 
@@ -57,7 +57,7 @@ Artist : Jean-Jacques Goldman
 
 Artist : Johnny halliday 
 #Johnny Halliday best of : https://www.youtube.com/watch?v=Xs-_NZ0LhrA&list=PLzPMWQBYT91TLF2HjrEFwNx5S-Q0mY9fE
-#Mon pays c'est l'amour : https://www.youtube.com/watch?v=CobeBZNlR8E&list=PLOAPZjcL-fxtTa6Y06NfibxZV2QmBxmxf&pp=iAQB
+Mon pays c'est l'amour : https://www.youtube.com/watch?v=CobeBZNlR8E&list=PLOAPZjcL-fxtTa6Y06NfibxZV2QmBxmxf&pp=iAQB
 
 
 
@@ -74,7 +74,7 @@ Artist : Marina P
 #Mix : https://www.youtube.com/watch?v=I9Kulw0SU08&list=RDEMBk1hvydvpkBw-ko0puWveA&start_radio=1
 
 Artist : Mozart
-#Mix : https://www.youtube.com/watch?v=df-eLzao63I&list=PLlt4xZeez_gk74mAMH_BdJ5wIWK4uCCOz
+Mix : https://www.youtube.com/watch?v=df-eLzao63I&list=PLlt4xZeez_gk74mAMH_BdJ5wIWK4uCCOz
 
 Artist : Oasis
 #Oasis - Best songs : https://www.youtube.com/watch?v=bx1Bh8ZvH84&list=PLMEZyDHJojxPndMRFPzCZ1T7RgzlHWBUb
@@ -98,11 +98,11 @@ Artist : Shaka Ponk
 #Apologies : https://www.youtube.com/watch?v=OwjXe2-PrzA&list=PLbOm51DJJU9KSIK1tbZcfW2ZaaX7gJNlT&pp=iAQB
 
 Artist : Supertramp
-#Best of : https://www.youtube.com/watch?v=u8pVZ5hTGJQ&list=PLi-Y73aIHeoO902R5v6kw7TdkGPxYANEO
-#Breakfast in amerika : https://www.youtube.com/watch?v=hbqVPYZgK48&list=PLFqw6BaKB9yHlmVTR5RjXxEM8fcuK5oqj
-#Even in the quiest moments : https://www.youtube.com/watch?v=c23Ph9huI2E&list=PL7hUR09s8HPXshiPBOEndEzgeLiXmowOo
-#Self titled : https://www.youtube.com/watch?v=vZhlLFvSScU&list=PLqZ5e2x0Y_GSLkoONkrG8UH2Nzt7-M3Bx
-#Incredibly stampled : https://www.youtube.com/watch?v=mAKxJ8nXa4o&list=PLaBzS-pGm6DgmaLSNo30XCyFgWCm0F25_
+Best of : https://www.youtube.com/watch?v=u8pVZ5hTGJQ&list=PLi-Y73aIHeoO902R5v6kw7TdkGPxYANEO
+Breakfast in amerika : https://www.youtube.com/watch?v=hbqVPYZgK48&list=PLFqw6BaKB9yHlmVTR5RjXxEM8fcuK5oqj
+Even in the quiest moments : https://www.youtube.com/watch?v=c23Ph9huI2E&list=PL7hUR09s8HPXshiPBOEndEzgeLiXmowOo
+Self titled : https://www.youtube.com/watch?v=vZhlLFvSScU&list=PLqZ5e2x0Y_GSLkoONkrG8UH2Nzt7-M3Bx
+Incredibly stampled : https://www.youtube.com/watch?v=mAKxJ8nXa4o&list=PLaBzS-pGm6DgmaLSNo30XCyFgWCm0F25_
 
 Artist : Téléphone
 #Téléphone Mix : https://www.youtube.com/watch?v=OGNhncQLQJA&list=RDEM1meYlu09Fx1JEH-_75B5PA&start_radio=1
