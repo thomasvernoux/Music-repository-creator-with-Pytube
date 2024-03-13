@@ -1,7 +1,12 @@
-Artist : Sport Playlists
-#Musique sport : https://www.youtube.com/watch?v=JGwWNGJdvx8&list=PLwK6zLqfsVUJFeo1OqnrRa4vmy3Q0Ixye
-#PLaylist sport booster : https://www.youtube.com/watch?v=U9Im71aNhYA&list=PLUInpELRS8HF92C_CNSiA9bBS4UgxTxHf
-#Workout playliste 2024 : https://www.youtube.com/watch?v=ZDZiXmCl4pk&list=PLu0ocO48LFms5WsI1ipaeanxqRjn2fC_5
+Artist : Playlists
+#Intense workout : https://www.youtube.com/watch?v=MJD39Aja1Is&list=PLvUrtI1UFRjHHdov8w04I3jiZEm4ZEUDd
+Hard rock, hard bod : https://www.youtube.com/watch?v=_pmZKkb_UAg&list=RDCLAK5uy_lzB6nj0ob7hek-ioXrT29KKMrjqyTDN5w&start_radio=1
+Gym hardstyle : https://www.youtube.com/watch?v=Sjt-ctWp41c&list=PLfja-fNLrp00Vk3ms6JTyAnitKgaWf8oO
+Gym motivation 2019 : https://www.youtube.com/watch?v=iqqkxCGvmpo&list=PL4AkG0oDrFIEyAHlGmFZRr6R1yu-sgRRQ
+Cardio and Hit workout : https://www.youtube.com/watch?v=qoxHy7N4Vog&list=PLipSZg1JNsC8L7wY0sKMkU_N6T5uEBKU_
+Musique sport : https://www.youtube.com/watch?v=JGwWNGJdvx8&list=PLwK6zLqfsVUJFeo1OqnrRa4vmy3Q0Ixye
+PLaylist sport booster : https://www.youtube.com/watch?v=U9Im71aNhYA&list=PLUInpELRS8HF92C_CNSiA9bBS4UgxTxHf
+Workout playliste 2024 : https://www.youtube.com/watch?v=ZDZiXmCl4pk&list=PLu0ocO48LFms5WsI1ipaeanxqRjn2fC_5
 
 Artist : ACDC
 #ACDC mix : https://www.youtube.com/watch?v=v2AC41dglnM&list=PLQlc99hV-nkGWDaG-gJxwOfqp8jxyHaaQ
@@ -16,6 +21,13 @@ Artist : ACDC
 #Ballbreaker (1995) : https://www.youtube.com/watch?v=lplvDCAueZA&list=PLBnJv6rImVe9p6lTZjPWL7W6T1fLtC7ul
 #Power Up (2020) : https://www.youtube.com/watch?v=Ba2V_SRsGhk&list=PLfiMjLyNWxeYdqCG4m90uJKHgGxNns7YN
 
+Artist : Bob Marley
+#Gratest hits : https://www.youtube.com/watch?v=R8GCc8OhTz8&list=PL1uvTe4OACGrBS_A06_-fK7dvVIX3Jq4F
+#Survival : https://www.youtube.com/watch?v=Sh_VPO_YisM&list=PL9LG-Wvz5UbnKd7pNvGy5bKxRQXLQHggM
+#Gold : https://www.youtube.com/watch?v=CvA6334tSDQ&list=PL6eR8gdsMJVO7iN3MZBRupglpW5zdMdQd
+#Burnin : https://www.youtube.com/watch?v=UubfH-1S43k&list=PL35FCDB4E57A7E485
+#Legend : https://www.youtube.com/watch?v=wsu_8UwapEI&list=PLvmbTyRt9mcQ4VQsip79hb289PWlozTPf
+
 Artist : Bakermat
 #The Spirit : https://www.youtube.com/watch?v=4tLDAp-XkGI&list=PLkt97dAk8QOCtdf29wXjP8b6NH6l2Y67N&pp=iAQB
 #The ringmaster : https://www.youtube.com/watch?v=DTCTPHQqvxg&list=PLkt97dAk8QOBttliUIl3q1MvNNbq88JLI&pp=iAQB
@@ -28,6 +40,9 @@ Artist : Black M
 #Les gros Yeux : https://www.youtube.com/watch?v=19rzrT7xyJ8&list=PL9jMvuXiQpmUJOMwfY-hQHcQmG3xfjCNP
 #M Les yeux plus gros que le monde : https://www.youtube.com/watch?v=19rzrT7xyJ8&list=PLLLXWPtKay8O3XkNW2Ir0wAIBclLgIaLN
 
+Artist : Broken Back
+#All songs : https://www.youtube.com/watch?v=gzZ43IEJ8S0&list=PLxo3MywOHc74M6sijZv3CyJ9GM8CtVvR7
+
 Artist : Brother Dege
 #Sear Earth Policy : https://www.youtube.com/watch?v=ABaZnge0l1s&list=PLtJPZTHaNKrUjd4hwO9dhnyAqavzaMAZV 
 #How to kill a horse : https://www.youtube.com/watch?v=69JZISbM_6c&list=PLDGkLoz_StY7wp4DNJ-PWalORXPKV2Bht
@@ -37,6 +52,9 @@ Artist : David Guetta
 #Babe don't hurt me : https://www.youtube.com/watch?v=k3DBmAlUh1A&list=PLz1iM8YfFbTcqNChnY1uwvYTn8wxuTiZ7&pp=iAQB
 #Bests songs : https://www.youtube.com/watch?v=LRPGqNeav_M&list=PLgF5KLwzxU-1VKRj1SzbPHGwKVIKOIUe2
 
+Artist : Eagles
+#Mix : https://www.youtube.com/watch?v=ESc2Tq2HzhQ&list=PLi-qDNLD8UfCXZW62wAsNe1jQD9lWmQi4
+
 Artist : Eminem
 #Eimnem - Best Of : https://www.youtube.com/watch?v=_Yhyp-_hX2s&list=PLMEZyDHJojxNlKL-Pk06Za-1SMlBdQEMG
 
@@ -45,6 +63,10 @@ Artist : Fatal Picards
 #7eme ciel (2013) : https://www.youtube.com/watch?v=tJxdb71Aqc4&list=PLyseo58Sy9Aydhhxx1-HQwTbZ2Uo2RlWq
 #Country club (2013) : https://www.youtube.com/watch?v=XIULvKnxLGo&list=PLyseo58Sy9Ay9D0JTRbBP40IRPy-7hXNr
 #Pamplemousse mecanique : https://www.youtube.com/watch?v=iwYbK9VDfAY&list=PLncyoPlbpzRZk5dThBycO0TgG2z-itz2f
+
+Artist : Grand corps malade
+#Best of : https://www.youtube.com/watch?v=WXMf8UN1sXI&list=PLkezPydZpc2uPYil2NVyZHTDwydQmJFo0
+#Midi 20 : https://www.youtube.com/watch?v=zEDJcXsynLI&list=PLsCBj5UnxRQ8I0DMA6XpNS2fNUJVq9Z23
 
 Artist : Gun'N'Roses
 #Don't Cry : https://www.youtube.com/watch?v=FKOQJZgdNmA&pp=ygUbZ3VucyBhbmQgcm9zZXMgcmVtYXN0ZXJpc2Vk
@@ -74,6 +96,17 @@ Artist : Les marins d'iroise
 #Chants de marins : https://www.youtube.com/watch?v=-57nRiS9WFE&list=OLAK5uy_l0FRovHwnLmg48fcsKp-FFJjjvFKUW-fc
 #Autour du monde : https://www.youtube.com/watch?v=eXie6Jcus-Q&list=OLAK5uy_lym0ECjUhXvUMmsq83K6cW_ED6OE-l01o
 
+Artist : Linkin Park
+#Gratest hits : https://www.youtube.com/watch?v=84J_XmGkX48&list=PL3A_1s_Z8MQbYIvki-pbcerX8zrF4U8zQ
+#Hybrid Theory : https://www.youtube.com/watch?v=84J_XmGkX48&list=PLE6dlt5SQB8r5oagkd_cwA6FlhGLGlxef
+#On emore light : https://www.youtube.com/watch?v=FY9v147BZuE&list=PLlqZM4covn1H69IAGko-oNj0lubezFQms
+#Complete playlist : https://www.youtube.com/watch?v=rOAheoFBhBk&list=PL69ctQsWAr9Qj1DDAXWIjAgqsBWFWMhaO
+
+Artist : Lost frequencies
+#All stand together : https://www.youtube.com/watch?v=-MLSdCQDjjU&list=PL03Y59vR96rIU0tshDFgyU5RQgC97Jg5L
+#Less is more : https://www.youtube.com/watch?v=vRniVKiXVGo&list=PL2ccQcL2PY6JHPSMIfbwG1xdBJ4bkmpwA
+#Alive and feeling fine : https://www.youtube.com/watch?v=V-5Daa7QJJg&list=PL03Y59vR96rK3SOJXcE17LEyj75NLkRro
+
 Artist : Maneskin
 #Rush : https://www.youtube.com/watch?v=LRApJG5WdIg&list=PLxA687tYuMWidK233I7SZ0NnnuiRb8szF
 
@@ -91,8 +124,17 @@ Artist : Mozart
 Artist : Oasis
 #Best songs : https://www.youtube.com/watch?v=bx1Bh8ZvH84&list=PLMEZyDHJojxPndMRFPzCZ1T7RgzlHWBUb
 
+Artist : Passenger
+#Best songs : https://www.youtube.com/watch?v=cb5PalnCrhY&list=PLMEZyDHJojxMtIrPE9bLE56tGXTc00248
+#All the little lights : https://www.youtube.com/watch?v=1ItrO33Hg48&list=PLc5JlTItu4Rf-D_ecUHxXJ5zcxi_YdgXq
+
 Artist : Pink Floyd
 #The Wall : https://www.youtube.com/watch?v=iLFwTqdsuxw&list=PLyDzU3p8FP24syYfTXpGqTDHsQhlxwllS
+
+Artist : Queen
+#Gratest hits : https://www.youtube.com/watch?v=NyvkmlQVEaA&list=PLFmdBbF3cYpzD5W_o0Lzr6KzG2nSBHjQz
+Queen : https://www.youtube.com/watch?v=NNXEarSxGQ0&list=PLBnJv6rImVe_RJ8-fSQ3OQkYnGxLDFYc-
+The game : https://www.youtube.com/watch?v=Dr0Gf6OzdBM&list=PLBnJv6rImVe8bdTn3KfefBucmEbFE2OrL
 
 Artist : Rammstein
 #mix : https://www.youtube.com/watch?v=PBvwcH4XX6U&list=PLOUzUrKhNae51rhMgkY_v1BWWISuvjmkk
@@ -103,6 +145,14 @@ Artist : Rammstein
 #Mutter (2001) : https://www.youtube.com/watch?v=Cp31A_iqoDw&list=PLLZUjlvnKF06QQIATYE9jjy_yv7OtI_XC
 #Sehnsucht (1997) : https://www.youtube.com/watch?v=ZXjNjuLOi_k&list=PLLZUjlvnKF04buS7bDLszuW-lNl-_Wgs_
 #Herzeleid (1995) : https://www.youtube.com/watch?v=uFM89wgvXBc&list=PLfEZ2UIciT73a42hQslGpHcv_MmR393mb
+
+Artist : Red Hot Chilly Peppers
+Freaky Stylet repastered : https://www.youtube.com/watch?v=Q5-QqK2tMfc&list=PLGK9cQwEH-6tKwypOBwW5bEkufoTC0eXv
+The red hot chilly peppers : https://www.youtube.com/watch?v=3XxdGTi_EZU&list=PLx3yLVvQp0FGM9AOGQaAlh_V72RO_77QA
+By the way : https://www.youtube.com/watch?v=6GMKYueN4mM&list=PLyWB0TxTMmTk-BkqJn13hFDtKioUSFlpE
+Californication : https://www.youtube.com/watch?v=iiupU-K_TKE&list=PLyWB0TxTMmTk0UXaMII3u8AawVbLney6N
+The gateway : https://www.youtube.com/watch?v=r2TUch2JqVI&list=PLygnHCqOrLc9TF980BWWJ4yeW53Gg-Vof
+Unlimited love : https://www.youtube.com/watch?v=7wZJF7QGmeg&list=PL67cMGyeB5sENp3CDdx-QBVoWf-ExRw0m
 
 Artist : Shaka Ponk
 #Shaka Ponk Best Of : https://www.youtube.com/watch?v=EF2PGnZmXCI&list=PLMEZyDHJojxNjp8fxfCtda8kmzMowOMRE

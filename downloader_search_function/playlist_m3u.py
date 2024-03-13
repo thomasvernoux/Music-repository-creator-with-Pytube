@@ -10,7 +10,7 @@ def create_playlist_m3u(directory_path, playlist_name):
         return
 
     # Créer la playlist M3U
-    playlist_path = os.path.join(directory_path, playlist_name + '.m3u')
+    playlist_path = os.path.join(directory_path, playlist_name, playlist_name + '.m3u')
     with open(playlist_path, 'w') as playlist_file:
         # Parcourir le répertoire et ses sous-répertoires
         for root, dirs, files in os.walk(directory_path):
@@ -24,3 +24,19 @@ def create_playlist_m3u(directory_path, playlist_name):
     print(f"Playlist M3U créée avec succès : {playlist_path}")
 
 
+def update_playlists_m3u_in_directory(directory):
+    dir_list = os.listdir(directory)
+    for playlist in dir_list :
+        create_playlist_m3u(directory, playlist)
+
+
+    return 
+
+def update_all_playlists_m3u():
+    Directories = ["audio/Playlists"
+                    ]
+
+    for directory in Directories : 
+        update_playlists_m3u_in_directory(directory)
+
+update_all_playlists_m3u()
