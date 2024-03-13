@@ -70,7 +70,7 @@ def get_music_data(file):
             artist_name = line.split(":")[1].strip()
             ARTISTS_LIST.append(Artist())
             ARTISTS_LIST[-1].name = artist_name
-            print(artist_name)
+            #print(artist_name)
             continue
 
         if line.startswith(" ") or line.startswith ("\n")  :
