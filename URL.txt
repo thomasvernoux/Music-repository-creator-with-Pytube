@@ -16,13 +16,12 @@ Artist : ACDC
 #Ballbreaker (1995) : https://www.youtube.com/watch?v=lplvDCAueZA&list=PLBnJv6rImVe9p6lTZjPWL7W6T1fLtC7ul
 #Power Up (2020) : https://www.youtube.com/watch?v=Ba2V_SRsGhk&list=PLfiMjLyNWxeYdqCG4m90uJKHgGxNns7YN
 
-
 Artist : Bakermat
 #The Spirit : https://www.youtube.com/watch?v=4tLDAp-XkGI&list=PLkt97dAk8QOCtdf29wXjP8b6NH6l2Y67N&pp=iAQB
 #The ringmaster : https://www.youtube.com/watch?v=DTCTPHQqvxg&list=PLkt97dAk8QOBttliUIl3q1MvNNbq88JLI&pp=iAQB
 #Releases : https://www.youtube.com/watch?v=CuiLsq7j_oY&list=PLkt97dAk8QOCoXTofez_mrXtQilrgykDA&pp=iAQB
 
-Artist : Beethoven 
+Artist : Beethoven
 #Mix : https://www.youtube.com/watch?v=hh7lNB5V74Y&list=PL_xXZCm82ZklJlxjcZjS87kf8tdf2_0SW
 
 Artist : Black M
@@ -47,11 +46,10 @@ Artist : Fatal Picards
 #Country club (2013) : https://www.youtube.com/watch?v=XIULvKnxLGo&list=PLyseo58Sy9Ay9D0JTRbBP40IRPy-7hXNr
 #Pamplemousse mecanique : https://www.youtube.com/watch?v=iwYbK9VDfAY&list=PLncyoPlbpzRZk5dThBycO0TgG2z-itz2f
 
-Artist : Gun'N'Roses 
+Artist : Gun'N'Roses
 #Don't Cry : https://www.youtube.com/watch?v=FKOQJZgdNmA&pp=ygUbZ3VucyBhbmQgcm9zZXMgcmVtYXN0ZXJpc2Vk
 #Appettite for destruction : https://www.youtube.com/watch?v=rpyRXJpGjIM&list=PLFu_yOBZt6G4nHE6j9L9yoJT3eVgISzSK
 #Use your illusion : https://www.youtube.com/watch?v=4cQg8k3Znvw&list=PLDNtAuXIhbEMqUhkgW0Z6M2WgT5XeO7lE
-
 
 Artist : Indochine
 #Best Of : https://www.youtube.com/watch?v=eP1iPYtHSy0&list=PLasDED1MNcveCRfVKmzkvZ3aC2b95QS0j
@@ -66,11 +64,9 @@ Artist : Jean-Jacques Goldman
 #Les 30 plus belles chansons : https://www.youtube.com/watch?v=0J3wIDAaLSU&list=PLxMGG4b92xpKctbQNWSQxiRQXUXuXqW62
 #Toutes les chansons : https://www.youtube.com/watch?v=o3hX0DU1QoI&list=PLmghTOZMibUkAWPcPW00JntpJZaD7L6wf
 
-Artist : Johnny halliday 
+Artist : Johnny halliday
 #best of : https://www.youtube.com/watch?v=Xs-_NZ0LhrA&list=PLzPMWQBYT91TLF2HjrEFwNx5S-Q0mY9fE
 #Mon pays c'est l'amour : https://www.youtube.com/watch?v=CobeBZNlR8E&list=PLOAPZjcL-fxtTa6Y06NfibxZV2QmBxmxf&pp=iAQB
-
-
 
 Artist : Les marins d'iroise
 #La mer est immense : https://www.youtube.com/watch?v=DAmqDVayiGo&list=OLAK5uy_kL4aUHlRmLEStqtzjX3G5y1d1CWsGcZuA
@@ -170,10 +166,4 @@ Artist : U2
 
 Artist : Others
 #Just dance : https://www.youtube.com/watch?v=MJTEt4aPhFQ&list=PLKILxJF99QvEgfY_lUdqcoSeXQuHfldbr
-
-
-
-
-
-
 
