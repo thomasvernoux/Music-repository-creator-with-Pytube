@@ -4,11 +4,19 @@ import os
 from pytube import Search
 import re
 import traceback
-from downloader_search_function.playlist_m3u import *
+import sys
 
+sys.path.append('./')
+from playlist_m3u import *
+
+import os
+from multiprocessing import Pool
+
+import logging
 
 
 playlist_name = "coups de coeur deezer.txt"
+
 
 
 def remove_special_characters(input_string):
@@ -57,8 +65,6 @@ def download_best_audio_from_search(song_name, folder_name):
         print(f"{yt.title} downloaded successfully.")
         print("audio path : ", audio_path)
         
-        
-        
 
         # Charger le fichier .webm
         clip = AudioFileClip(audio_path)
@@ -86,24 +92,22 @@ def download_best_audio_from_search(song_name, folder_name):
     return f"audio/{folder_name}/{mp3_filename}"
 
 
-if __name__ == "__main__":
+def download_wrapper(line_foldername):
+    line, foldername = line_foldername
+    return download_best_audio_from_search(line, foldername)
 
+process_number = 4
+
+if __name__ == "__main__":
     with open('downloader_search_function/' + playlist_name, 'r') as file:
         lines = [line.strip() for line in file.readlines() if line.strip() and not line.startswith('#')]
 
-    for line in lines:
-        try : 
-            foldername = base_name = os.path.splitext(playlist_name)[0]
-            path = download_best_audio_from_search(line, foldername)
-            
+    foldername = os.path.splitext(playlist_name)[0]
+    lines_foldername = [(line, foldername) for line in lines]
 
-        except Exception as e:
-            # Capturer l'exception et imprimer la trace
-            print("Une exception s'est produite :")
-            traceback.print_exc()
-
-    ## create the m3u playlist
-    create_playlist_m3u(f'audio/{foldername}', playlist_name)
+    # Créez un pool de processus avec le nombre souhaité de processus
+    with Pool(processes=process_number) as pool:  
+        results = pool.map(download_wrapper, lines_foldername)
             
     
 
