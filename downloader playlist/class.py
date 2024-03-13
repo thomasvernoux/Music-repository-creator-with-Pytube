@@ -45,7 +45,7 @@ class Artist:
         for album in self.albums_list :
             album.download()
             global MUSIC_DATA
-            write_music_data(MUSIC_DATA, path = "URL.txt")
+            write_music_data(MUSIC_DATA)
 
 
 
@@ -97,7 +97,7 @@ def get_music_data(file):
             album.has_to_be_downloaded = True
     return ARTISTS_LIST
 
-def write_music_data(DATA, path = "URL.txt"):
+def write_music_data(DATA, path = "downloader playlist/urls.txt"):
 
     file = open(path, 'w')
 
