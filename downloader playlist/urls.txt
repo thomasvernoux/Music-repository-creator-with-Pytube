@@ -157,7 +157,7 @@ Artist : The Rolling Stones
 #Black and Blue remastered : https://www.youtube.com/watch?v=pyKD42lPQaY&list=PLo2aaBamFnLSaRINmGjaCKdFwMVTFvoQm
 #Let it bleed remastered : https://www.youtube.com/watch?v=QeglgSWKSIY&list=PLE7OYmYUxGQc9lM3vYTAYcGiHS3jKRb9b
 #Forty licks remastered : https://www.youtube.com/watch?v=6WxSIos2-G8&list=PLfO1jjNDp5HCsQ7eRY8RbPA86sOmPkLjT
-Complete discography : https://www.youtube.com/watch?v=Q131ZJ6YkG0&list=PL2MZK_Q9HXRUqiADG0GmaJm6q8WySYwgf
+#Complete discography : https://www.youtube.com/watch?v=Q131ZJ6YkG0&list=PL2MZK_Q9HXRUqiADG0GmaJm6q8WySYwgf
 Undercover : https://www.youtube.com/watch?v=MBbG8dNJz60&list=PLOf97ULJj0rSgvX1BhoakCaabu15Uqhpj
 
 Artist : The white Stripes

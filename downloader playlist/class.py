@@ -49,7 +49,6 @@ class Artist:
 
 
 
-
 def get_music_data(file):
     """
     Return a list of Artist class
