@@ -4,11 +4,11 @@ import os
 from pytube import Search
 import re
 import traceback
-from playlist_m3u import *
+from downloader_search_function.playlist_m3u import *
 
 
 
-playlist_name = "playlist_test.txt"
+playlist_name = "coups de coeur deezer.txt"
 
 
 def remove_special_characters(input_string):

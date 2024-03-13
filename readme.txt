@@ -1,5 +1,5 @@
 Author : Thomas Vernoux
-Date : Feb 26 2024s
+Date : Feb 26 2024
 
 Description
 The YouTube Audio Downloader is a Python script that allows you to download the audio from YouTube videos or playlists and convert them to MP3 format. It utilizes the pytube and moviepy libraries to fetch and process YouTube video data.

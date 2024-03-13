@@ -22,3 +22,5 @@ def create_playlist_m3u(directory_path, playlist_name):
                     playlist_file.write(relative_path + '\n')
 
     print(f"Playlist M3U créée avec succès : {playlist_path}")
+
+

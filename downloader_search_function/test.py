@@ -1,6 +1,6 @@
 
 
-from playlist_m3u import *
+from downloader_search_function.playlist_m3u import *
 
 
 

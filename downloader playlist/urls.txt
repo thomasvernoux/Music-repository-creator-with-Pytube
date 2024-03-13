@@ -1,15 +1,20 @@
+Artist : Sport Playlists
+#Musique sport : https://www.youtube.com/watch?v=JGwWNGJdvx8&list=PLwK6zLqfsVUJFeo1OqnrRa4vmy3Q0Ixye
+#PLaylist sport booster : https://www.youtube.com/watch?v=U9Im71aNhYA&list=PLUInpELRS8HF92C_CNSiA9bBS4UgxTxHf
+#Workout playliste 2024 : https://www.youtube.com/watch?v=ZDZiXmCl4pk&list=PLu0ocO48LFms5WsI1ipaeanxqRjn2fC_5
+
 Artist : ACDC
-#ACDC : https://www.youtube.com/watch?v=v2AC41dglnM&list=PLQlc99hV-nkGWDaG-gJxwOfqp8jxyHaaQ
-#ACDC Back in Black : https://www.youtube.com/watch?v=GL56LY6fE0E&list=PLzqsoINOR51ZNYuuINo2XVKJu9PQtAcdK
-#ACDC Highway to Hell : https://www.youtube.com/watch?v=4hhlQU0zDpA&list=PLx1MDbsLNfVRQ9AOtjH3sgAlwRP80yWGe
-#ACDC High Voltage (1975) : https://www.youtube.com/watch?v=vj_rvLVpqg8&list=PLBzBwYhHpqLLTp7rdiOuSflXO0GCzxmpY
-#ACDC T.N.T. (1975) - https://www.youtube.com/watch?v=IWvsqCKK98s&list=PLW8qY_BtlPqe9jordLycI9KiQqqhT-ZCM
-#ACDC High Voltage (1976) - https://www.youtube.com/watch?v=vj_rvLVpqg8&list=PLBzBwYhHpqLLTp7rdiOuSflXO0GCzxmpY
-#ACDC Dirty Deeds Done Dirt Cheap (1976) - https://www.youtube.com/watch?v=UIE4UjBtx-o&list=PLBzBwYhHpqLLHawBXQghqDfEEQ5IWf1gl
-#ACDC Let There Be Rock (1977) - https://www.youtube.com/watch?v=t9DWwoey1K0&list=PLxGB9kNnluF7njMPm-bIUhI2bCetXe1Gj
-#ACDC Powerage (1978) - https://www.youtube.com/watch?v=KzeImyBG5WY&list=PLBnJv6rImVe_80TLRvXFypz691tekxqTJ
-#ACDC Ballbreaker (1995) - https://www.youtube.com/watch?v=lplvDCAueZA&list=PLBnJv6rImVe9p6lTZjPWL7W6T1fLtC7ul
-#ACDC Power Up (2020) - https://www.youtube.com/watch?v=Ba2V_SRsGhk&list=PLfiMjLyNWxeYdqCG4m90uJKHgGxNns7YN
+#ACDC mix : https://www.youtube.com/watch?v=v2AC41dglnM&list=PLQlc99hV-nkGWDaG-gJxwOfqp8jxyHaaQ
+#Back in Black : https://www.youtube.com/watch?v=GL56LY6fE0E&list=PLzqsoINOR51ZNYuuINo2XVKJu9PQtAcdK
+#Highway to Hell : https://www.youtube.com/watch?v=4hhlQU0zDpA&list=PLx1MDbsLNfVRQ9AOtjH3sgAlwRP80yWGe
+#High Voltage (1975) : https://www.youtube.com/watch?v=vj_rvLVpqg8&list=PLBzBwYhHpqLLTp7rdiOuSflXO0GCzxmpY
+#T.N.T. (1975) - https://www.youtube.com/watch?v=IWvsqCKK98s&list=PLW8qY_BtlPqe9jordLycI9KiQqqhT-ZCM
+#High Voltage (1976) - https://www.youtube.com/watch?v=vj_rvLVpqg8&list=PLBzBwYhHpqLLTp7rdiOuSflXO0GCzxmpY
+#Dirty Deeds Done Dirt Cheap (1976) - https://www.youtube.com/watch?v=UIE4UjBtx-o&list=PLBzBwYhHpqLLHawBXQghqDfEEQ5IWf1gl
+#Let There Be Rock (1977) - https://www.youtube.com/watch?v=t9DWwoey1K0&list=PLxGB9kNnluF7njMPm-bIUhI2bCetXe1Gj
+#Powerage (1978) - https://www.youtube.com/watch?v=KzeImyBG5WY&list=PLBnJv6rImVe_80TLRvXFypz691tekxqTJ
+#Ballbreaker (1995) - https://www.youtube.com/watch?v=lplvDCAueZA&list=PLBnJv6rImVe9p6lTZjPWL7W6T1fLtC7ul
+#Power Up (2020) - https://www.youtube.com/watch?v=Ba2V_SRsGhk&list=PLfiMjLyNWxeYdqCG4m90uJKHgGxNns7YN
 
 
 Artist : Bakermat
@@ -21,8 +26,8 @@ Artist : Beethoven
 #Mix : https://www.youtube.com/watch?v=hh7lNB5V74Y&list=PL_xXZCm82ZklJlxjcZjS87kf8tdf2_0SW
 
 Artist : Black M
-#Black M Les gros Yeux : https://www.youtube.com/watch?v=19rzrT7xyJ8&list=PL9jMvuXiQpmUJOMwfY-hQHcQmG3xfjCNP
-#Black M Les yeux plus gros que le monde : https://www.youtube.com/watch?v=19rzrT7xyJ8&list=PLLLXWPtKay8O3XkNW2Ir0wAIBclLgIaLN
+#Les gros Yeux : https://www.youtube.com/watch?v=19rzrT7xyJ8&list=PL9jMvuXiQpmUJOMwfY-hQHcQmG3xfjCNP
+#M Les yeux plus gros que le monde : https://www.youtube.com/watch?v=19rzrT7xyJ8&list=PLLLXWPtKay8O3XkNW2Ir0wAIBclLgIaLN
 
 Artist : Brother Dege
 #Sear Earth Policy : https://www.youtube.com/watch?v=ABaZnge0l1s&list=PLtJPZTHaNKrUjd4hwO9dhnyAqavzaMAZV 
@@ -36,6 +41,12 @@ Artist : David Guetta
 Artist : Eminem
 #Eimnem - Best Of : https://www.youtube.com/watch?v=_Yhyp-_hX2s&list=PLMEZyDHJojxNlKL-Pk06Za-1SMlBdQEMG
 
+Artist : Fatal Picards
+#Espece menacee (2019) : https://www.youtube.com/watch?v=5Km_djrfIaI&list=PLyseo58Sy9AzJdpVzBr0p7BJwH4PMOjW5
+#7eme ciel (2013) : https://www.youtube.com/watch?v=tJxdb71Aqc4&list=PLyseo58Sy9Aydhhxx1-HQwTbZ2Uo2RlWq
+#Country club (2013) : https://www.youtube.com/watch?v=XIULvKnxLGo&list=PLyseo58Sy9Ay9D0JTRbBP40IRPy-7hXNr
+#Pamplemousse mecanique : https://www.youtube.com/watch?v=iwYbK9VDfAY&list=PLncyoPlbpzRZk5dThBycO0TgG2z-itz2f
+
 Artist : Gun'N'Roses 
 #Don't Cry : https://www.youtube.com/watch?v=FKOQJZgdNmA&pp=ygUbZ3VucyBhbmQgcm9zZXMgcmVtYXN0ZXJpc2Vk
 #Appettite for destruction : https://www.youtube.com/watch?v=rpyRXJpGjIM&list=PLFu_yOBZt6G4nHE6j9L9yoJT3eVgISzSK
@@ -43,20 +54,20 @@ Artist : Gun'N'Roses
 
 
 Artist : Indochine
-#Indochine Best Of : https://www.youtube.com/watch?v=eP1iPYtHSy0&list=PLasDED1MNcveCRfVKmzkvZ3aC2b95QS0j
-#Indochine Integrale : https://www.youtube.com/watch?v=09BJyzWUesw&list=PL-MYmIu86IpVWnuba2mZ85z-kz9g_xHgL
-#Indochine Unita : https://www.youtube.com/watch?v=VTuSWpjorX8&list=PL03-W3RPI-VsxMcWi93RCct2ECLT0eaGb
-#Inodchine Black city parade : https://www.youtube.com/watch?v=iuEcAc-zIXc&list=PLiN-7mukU_RFEwcDatYTgFF8PZRFB9TuO
-#
+#Best Of : https://www.youtube.com/watch?v=eP1iPYtHSy0&list=PLasDED1MNcveCRfVKmzkvZ3aC2b95QS0j
+#Integrale : https://www.youtube.com/watch?v=09BJyzWUesw&list=PL-MYmIu86IpVWnuba2mZ85z-kz9g_xHgL
+#Unita : https://www.youtube.com/watch?v=VTuSWpjorX8&list=PL03-W3RPI-VsxMcWi93RCct2ECLT0eaGb
+#Black city parade : https://www.youtube.com/watch?v=iuEcAc-zIXc&list=PLiN-7mukU_RFEwcDatYTgFF8PZRFB9TuO
+
 Artist : Interpol
-#Interpol - Antics : https://www.youtube.com/watch?v=dkpgz3uQ58U&list=PLnO2_CazSA1KvSCb2dD1_eGA4TkGHy1GH
+#Antics : https://www.youtube.com/watch?v=dkpgz3uQ58U&list=PLnO2_CazSA1KvSCb2dD1_eGA4TkGHy1GH
 
 Artist : Jean-Jacques Goldman
 #Les 30 plus belles chansons : https://www.youtube.com/watch?v=0J3wIDAaLSU&list=PLxMGG4b92xpKctbQNWSQxiRQXUXuXqW62
 #Toutes les chansons : https://www.youtube.com/watch?v=o3hX0DU1QoI&list=PLmghTOZMibUkAWPcPW00JntpJZaD7L6wf
 
 Artist : Johnny halliday 
-#Johnny Halliday best of : https://www.youtube.com/watch?v=Xs-_NZ0LhrA&list=PLzPMWQBYT91TLF2HjrEFwNx5S-Q0mY9fE
+#best of : https://www.youtube.com/watch?v=Xs-_NZ0LhrA&list=PLzPMWQBYT91TLF2HjrEFwNx5S-Q0mY9fE
 #Mon pays c'est l'amour : https://www.youtube.com/watch?v=CobeBZNlR8E&list=PLOAPZjcL-fxtTa6Y06NfibxZV2QmBxmxf&pp=iAQB
 
 
@@ -68,29 +79,34 @@ Artist : Les marins d'iroise
 #Autour du monde : https://www.youtube.com/watch?v=eXie6Jcus-Q&list=OLAK5uy_lym0ECjUhXvUMmsq83K6cW_ED6OE-l01o
 
 Artist : Maneskin
-#Maneskin - Rush : https://www.youtube.com/watch?v=LRApJG5WdIg&list=PLxA687tYuMWidK233I7SZ0NnnuiRb8szF
+#Rush : https://www.youtube.com/watch?v=LRApJG5WdIg&list=PLxA687tYuMWidK233I7SZ0NnnuiRb8szF
 
 Artist : Marina P
 #Mix : https://www.youtube.com/watch?v=I9Kulw0SU08&list=RDEMBk1hvydvpkBw-ko0puWveA&start_radio=1
+
+Artist : Michael Jackson
+#Bad remastered 2012 : https://www.youtube.com/watch?v=o-Ncnh5dcJU&list=PL29AXA0_gzWN1SW3fqfLeB-OcmBj44Vrb
+#Discography : https://www.youtube.com/watch?v=n3qQtSRmHxo&list=PLs0odKA07LBY5nsZ2EwA2iHzdKU6NHj0D
+#Gratest hits : https://www.youtube.com/watch?v=y32ejtuxSjM&list=PLAKPPAHY4SIKwNBbAcVa48KVUBbh6PHOA
 
 Artist : Mozart
 #Mix : https://www.youtube.com/watch?v=df-eLzao63I&list=PLlt4xZeez_gk74mAMH_BdJ5wIWK4uCCOz
 
 Artist : Oasis
-#Oasis - Best songs : https://www.youtube.com/watch?v=bx1Bh8ZvH84&list=PLMEZyDHJojxPndMRFPzCZ1T7RgzlHWBUb
+#Best songs : https://www.youtube.com/watch?v=bx1Bh8ZvH84&list=PLMEZyDHJojxPndMRFPzCZ1T7RgzlHWBUb
 
 Artist : Pink Floyd
-#Pink Floyd - The Wall :https://www.youtube.com/watch?v=iLFwTqdsuxw&list=PLyDzU3p8FP24syYfTXpGqTDHsQhlxwllS
+#The Wall :https://www.youtube.com/watch?v=iLFwTqdsuxw&list=PLyDzU3p8FP24syYfTXpGqTDHsQhlxwllS
 
 Artist : Rammstein
-#Rammstein mix : https://www.youtube.com/watch?v=PBvwcH4XX6U&list=PLOUzUrKhNae51rhMgkY_v1BWWISuvjmkk
-#Rammstein - Rammstein (2019) : https://www.youtube.com/watch?v=vGtaDvhSxaI&list=PLLZUjlvnKF05z2tBOAxmvNnagcU2-aHe7
-#Rammstein - Liebe ist fur alle da (2009) : https://www.youtube.com/watch?v=vUA7ff_wLMo&list=PLiN-7mukU_RHBYiR5Mhb29_w-JI5fo1Jw
-#Rammstein - Rosenrot (2005) : https://www.youtube.com/watch?v=R8lmtUfBG9I&list=PLbNerdatptfi65NuKBiz72lLZgpm7VJoq
-#Rammstein - Reise, Reise (2004) : https://www.youtube.com/watch?v=VEG_T4UUc1I&list=PLiN-7mukU_RF5uoTJyE4iRWBI3o8PhPaO
-#Rammstein - Mutter (2001) : https://www.youtube.com/watch?v=Cp31A_iqoDw&list=PLLZUjlvnKF06QQIATYE9jjy_yv7OtI_XC
-#Rammstein - Sehnsucht (1997) : https://www.youtube.com/watch?v=ZXjNjuLOi_k&list=PLLZUjlvnKF04buS7bDLszuW-lNl-_Wgs_
-#Rammstein - Herzeleid (1995): https://www.youtube.com/watch?v=uFM89wgvXBc&list=PLfEZ2UIciT73a42hQslGpHcv_MmR393mb
+#mix : https://www.youtube.com/watch?v=PBvwcH4XX6U&list=PLOUzUrKhNae51rhMgkY_v1BWWISuvjmkk
+#Rammstein (2019) : https://www.youtube.com/watch?v=vGtaDvhSxaI&list=PLLZUjlvnKF05z2tBOAxmvNnagcU2-aHe7
+#Liebe ist fur alle da (2009) : https://www.youtube.com/watch?v=vUA7ff_wLMo&list=PLiN-7mukU_RHBYiR5Mhb29_w-JI5fo1Jw
+#Rosenrot (2005) : https://www.youtube.com/watch?v=R8lmtUfBG9I&list=PLbNerdatptfi65NuKBiz72lLZgpm7VJoq
+#Reise, Reise (2004) : https://www.youtube.com/watch?v=VEG_T4UUc1I&list=PLiN-7mukU_RF5uoTJyE4iRWBI3o8PhPaO
+#Mutter (2001) : https://www.youtube.com/watch?v=Cp31A_iqoDw&list=PLLZUjlvnKF06QQIATYE9jjy_yv7OtI_XC
+#Sehnsucht (1997) : https://www.youtube.com/watch?v=ZXjNjuLOi_k&list=PLLZUjlvnKF04buS7bDLszuW-lNl-_Wgs_
+#Herzeleid (1995): https://www.youtube.com/watch?v=uFM89wgvXBc&list=PLfEZ2UIciT73a42hQslGpHcv_MmR393mb
 
 Artist : Shaka Ponk
 #Shaka Ponk Best Of : https://www.youtube.com/watch?v=EF2PGnZmXCI&list=PLMEZyDHJojxNjp8fxfCtda8kmzMowOMRE
@@ -131,12 +147,26 @@ Artist : The Black Keys
 #The black keys - El Camino : https://www.youtube.com/watch?v=9DYPfItb2fk&list=PL81_CtYCym28wjmLK7DadBj3TVZB-FpMQ
 
 Artist : The police
-#The police - Gratest hits : https://www.youtube.com/watch?v=Cdu3a2arXdw&list=PLh1N75AiDBAC7Y--RxtxLn3AtvHIPM8gt
+#Gratest hits : https://www.youtube.com/watch?v=Cdu3a2arXdw&list=PLh1N75AiDBAC7Y--RxtxLn3AtvHIPM8gt
+#Regatta de blanc : https://www.youtube.com/watch?v=WMl1xKJeuuQ&list=PLBnJv6rImVe9d2c5lJRP2ThrQ0ypway1j
+#Synchronicity: https://www.youtube.com/watch?v=Si5CSpUCDGY&list=PLBnJv6rImVe9ReRWEytmSuTL67PT4zu-r
+#Massage in a box : https://www.youtube.com/watch?v=muMzvzItLHs&list=PLAn-T5fEM_WC1_f2VLnQyxhanZnMWNgnk
+#Discography : https://www.youtube.com/watch?v=QucmeFo-G_E&list=PLideJWc8vR0FzOLDewcrlbv7FUKFoijPw
+
+Artist : The ROlling Stones
+#Black and Blue remastered : https://www.youtube.com/watch?v=pyKD42lPQaY&list=PLo2aaBamFnLSaRINmGjaCKdFwMVTFvoQm
+#Let it bleed remastered : https://www.youtube.com/watch?v=QeglgSWKSIY&list=PLE7OYmYUxGQc9lM3vYTAYcGiHS3jKRb9b
+#Forty licks remastered : https://www.youtube.com/watch?v=6WxSIos2-G8&list=PLfO1jjNDp5HCsQ7eRY8RbPA86sOmPkLjT
+Complete discography : https://www.youtube.com/watch?v=Q131ZJ6YkG0&list=PL2MZK_Q9HXRUqiADG0GmaJm6q8WySYwgf
+Undercover : https://www.youtube.com/watch?v=MBbG8dNJz60&list=PLOf97ULJj0rSgvX1BhoakCaabu15Uqhpj
+
+Artist : The white Stripes
+Elephant : https://www.youtube.com/watch?v=-VfnSZt-5pw&list=PLs0o3PLRiVDHm97sLphobH0Y7bhannZmm
+Gratest Hits : https://www.youtube.com/watch?v=vGMI7Tdd014&list=PLRkypqpSISVuNhUGTlveY9V1L-ZCZvOU2
 
 Artist : U2
-#U2 Best Of : https://www.youtube.com/watch?v=QdR-AONQ23U&list=PL0n75a7HekRJneQyEbIbJOSWo1ChCubr3
-#U2 remastered videos : https://www.youtube.com/watch?v=h7p4BjD7wb8&list=PL80sr_OFD9CH6JZfa-xoWRysg21KwrDjX
+#Best Of : https://www.youtube.com/watch?v=QdR-AONQ23U&list=PL0n75a7HekRJneQyEbIbJOSWo1ChCubr3
+#remastered videos : https://www.youtube.com/watch?v=h7p4BjD7wb8&list=PL80sr_OFD9CH6JZfa-xoWRysg21KwrDjX
 
 Artist : Others
 #Just dance : https://www.youtube.com/watch?v=MJTEt4aPhFQ&list=PLKILxJF99QvEgfY_lUdqcoSeXQuHfldbr
-
