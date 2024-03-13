@@ -96,7 +96,7 @@ def download_wrapper(line_foldername):
     line, foldername = line_foldername
     return download_best_audio_from_search(line, foldername)
 
-process_number = 4
+
 
 if __name__ == "__main__":
     with open('downloader_search_function/' + playlist_name, 'r') as file:
@@ -106,7 +106,7 @@ if __name__ == "__main__":
     lines_foldername = [(line, foldername) for line in lines]
 
     # Créez un pool de processus avec le nombre souhaité de processus
-    with Pool(processes=process_number) as pool:  
+    with Pool() as pool:  
         results = pool.map(download_wrapper, lines_foldername)
             
     

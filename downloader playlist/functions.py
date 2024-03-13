@@ -5,6 +5,8 @@ from moviepy.editor import AudioFileClip  # Import the AudioFileClip class from 
 import os  # Import the os module for interacting with the operating system
 import re
 
+from multiprocessing import Pool
+
 def remove_special_characters(input_string):
     """
     This function is used to transform a input string into output string without specials caracters
@@ -25,45 +27,46 @@ def remove_special_characters(input_string):
     
     return input_string
 
-def download_best_audio_playlist(playlist_url, folder_name):
+def download_and_convert(video_url_folder_name):
     """
-    This function is used to download the best audio of a playlist tracks
-    input : 
-    @playlist URL : Youtube URL of the playlist
-    @folder name : download destination
-    """
+    Downloads and converts the audio of a video given its URL and destination folder name.
 
-    playlist = Playlist(playlist_url)    # create the playlist object
-    print("len(playlist.video_urls) : ", len(playlist.video_urls))
-    i = 0
-    for video in playlist.video_urls:
-        i += 1
-        print("working : ", i, " / ", len(playlist.video_urls))
-        yt = YouTube(video)              # create video object
+    Args:
+        video_url_folder_name (tuple): A tuple containing the video URL and the folder name.
+
+    Returns:
+        None
+    """
+    # Unpack the tuple into video URL and folder name
+    video_url, folder_name = video_url_folder_name
+    
+    try:
+        # Create a YouTube object from the video URL
+        yt = YouTube(video_url)
+        
+        # Get the best audio stream available for the video
         audio_stream = yt.streams.filter(only_audio=True).order_by('abr').desc().first()
-        if audio_stream:
 
-            # Generate a name for the song
+        if audio_stream:
+            # Generate a name for the audio file
             file_name = f'{yt.title}.mp3'
             
-            # Check if the audio file already exist
+            # Check if the audio file already exists
             test_path = os.path.join('audio', folder_name, remove_special_characters(file_name))
-            exist  = os.path.exists(test_path)
-            if exist:
+            if os.path.exists(test_path):
                 print(f"{file_name} already exists. Skipping...")
-                continue  # Go to the next song
+                return
 
             print(f"Downloading {yt.title}...")
-            
-            # Create directory if it doesn't exist
+
+            # Create necessary directories if they don't exist
             if not os.path.exists('audio'):
                 os.makedirs('audio')
             output_dir = os.path.join('audio', folder_name)
             if not os.path.exists(output_dir):
                 os.makedirs(output_dir)
 
-
-            # Download the audio stream to the 'audio' directory
+            # Download the audio stream to the specified directory
             audio_path = audio_stream.download(output_path=output_dir)
             print("audio path : ", audio_path)
             print(f"{yt.title} downloaded successfully.")
@@ -77,12 +80,36 @@ def download_best_audio_playlist(playlist_url, folder_name):
             # Delete the .webm file after conversion
             os.remove(audio_path)
             print(f".webm file deleted for {yt.title}")
-
             print(f"Conversion to MP3 completed for {yt.title}.")
-        
-        
         else:
             print(f"No audio stream available for {yt.title}.")
+    except Exception as e:
+        print(f"Error processing video URL {video_url}: {e}")
+
+def download_best_audio_playlist(playlist_url, folder_name):
+    """
+    Downloads the best available audio for each video in the given playlist.
+
+    Args:
+        playlist_url (str): The URL of the YouTube playlist.
+        folder_name (str): The name of the folder where the audio files will be saved.
+
+    Returns:
+        None
+    """
+    # Create a Playlist object from the playlist URL
+    playlist = Playlist(playlist_url)
+    
+    # Create a list of tuples containing video URL and folder name for each video in the playlist
+    video_url_folder_name_list = [(video, folder_name) for video in playlist.video_urls]
+
+    # Use multiprocessing to parallelize the downloading and conversion process
+    with Pool() as pool:
+        # Map the download_and_convert function to each tuple in the list
+        pool.map(download_and_convert, video_url_folder_name_list)
+
+
+
 
 
 
