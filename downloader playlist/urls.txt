@@ -1,5 +1,5 @@
 Artist : Sport Playlists
-Musique sport : https://www.youtube.com/watch?v=JGwWNGJdvx8&list=PLwK6zLqfsVUJFeo1OqnrRa4vmy3Q0Ixye
+#Musique sport : https://www.youtube.com/watch?v=JGwWNGJdvx8&list=PLwK6zLqfsVUJFeo1OqnrRa4vmy3Q0Ixye
 #PLaylist sport booster : https://www.youtube.com/watch?v=U9Im71aNhYA&list=PLUInpELRS8HF92C_CNSiA9bBS4UgxTxHf
 #Workout playliste 2024 : https://www.youtube.com/watch?v=ZDZiXmCl4pk&list=PLu0ocO48LFms5WsI1ipaeanxqRjn2fC_5
 
@@ -16,13 +16,12 @@ Artist : ACDC
 #Ballbreaker (1995) : https://www.youtube.com/watch?v=lplvDCAueZA&list=PLBnJv6rImVe9p6lTZjPWL7W6T1fLtC7ul
 #Power Up (2020) : https://www.youtube.com/watch?v=Ba2V_SRsGhk&list=PLfiMjLyNWxeYdqCG4m90uJKHgGxNns7YN
 
-
 Artist : Bakermat
 #The Spirit : https://www.youtube.com/watch?v=4tLDAp-XkGI&list=PLkt97dAk8QOCtdf29wXjP8b6NH6l2Y67N&pp=iAQB
 #The ringmaster : https://www.youtube.com/watch?v=DTCTPHQqvxg&list=PLkt97dAk8QOBttliUIl3q1MvNNbq88JLI&pp=iAQB
 #Releases : https://www.youtube.com/watch?v=CuiLsq7j_oY&list=PLkt97dAk8QOCoXTofez_mrXtQilrgykDA&pp=iAQB
 
-Artist : Beethoven 
+Artist : Beethoven
 #Mix : https://www.youtube.com/watch?v=hh7lNB5V74Y&list=PL_xXZCm82ZklJlxjcZjS87kf8tdf2_0SW
 
 Artist : Black M
@@ -47,11 +46,10 @@ Artist : Fatal Picards
 #Country club (2013) : https://www.youtube.com/watch?v=XIULvKnxLGo&list=PLyseo58Sy9Ay9D0JTRbBP40IRPy-7hXNr
 #Pamplemousse mecanique : https://www.youtube.com/watch?v=iwYbK9VDfAY&list=PLncyoPlbpzRZk5dThBycO0TgG2z-itz2f
 
-Artist : Gun'N'Roses 
+Artist : Gun'N'Roses
 #Don't Cry : https://www.youtube.com/watch?v=FKOQJZgdNmA&pp=ygUbZ3VucyBhbmQgcm9zZXMgcmVtYXN0ZXJpc2Vk
 #Appettite for destruction : https://www.youtube.com/watch?v=rpyRXJpGjIM&list=PLFu_yOBZt6G4nHE6j9L9yoJT3eVgISzSK
 #Use your illusion : https://www.youtube.com/watch?v=4cQg8k3Znvw&list=PLDNtAuXIhbEMqUhkgW0Z6M2WgT5XeO7lE
-
 
 Artist : Indochine
 #Best Of : https://www.youtube.com/watch?v=eP1iPYtHSy0&list=PLasDED1MNcveCRfVKmzkvZ3aC2b95QS0j
@@ -66,11 +64,9 @@ Artist : Jean-Jacques Goldman
 #Les 30 plus belles chansons : https://www.youtube.com/watch?v=0J3wIDAaLSU&list=PLxMGG4b92xpKctbQNWSQxiRQXUXuXqW62
 #Toutes les chansons : https://www.youtube.com/watch?v=o3hX0DU1QoI&list=PLmghTOZMibUkAWPcPW00JntpJZaD7L6wf
 
-Artist : Johnny halliday 
+Artist : Johnny halliday
 #best of : https://www.youtube.com/watch?v=Xs-_NZ0LhrA&list=PLzPMWQBYT91TLF2HjrEFwNx5S-Q0mY9fE
 #Mon pays c'est l'amour : https://www.youtube.com/watch?v=CobeBZNlR8E&list=PLOAPZjcL-fxtTa6Y06NfibxZV2QmBxmxf&pp=iAQB
-
-
 
 Artist : Les marins d'iroise
 #La mer est immense : https://www.youtube.com/watch?v=DAmqDVayiGo&list=OLAK5uy_kL4aUHlRmLEStqtzjX3G5y1d1CWsGcZuA
@@ -158,11 +154,11 @@ Artist : The Rolling Stones
 #Let it bleed remastered : https://www.youtube.com/watch?v=QeglgSWKSIY&list=PLE7OYmYUxGQc9lM3vYTAYcGiHS3jKRb9b
 #Forty licks remastered : https://www.youtube.com/watch?v=6WxSIos2-G8&list=PLfO1jjNDp5HCsQ7eRY8RbPA86sOmPkLjT
 #Complete discography : https://www.youtube.com/watch?v=Q131ZJ6YkG0&list=PL2MZK_Q9HXRUqiADG0GmaJm6q8WySYwgf
-Undercover : https://www.youtube.com/watch?v=MBbG8dNJz60&list=PLOf97ULJj0rSgvX1BhoakCaabu15Uqhpj
+#Undercover : https://www.youtube.com/watch?v=MBbG8dNJz60&list=PLOf97ULJj0rSgvX1BhoakCaabu15Uqhpj
 
 Artist : The white Stripes
-Elephant : https://www.youtube.com/watch?v=-VfnSZt-5pw&list=PLs0o3PLRiVDHm97sLphobH0Y7bhannZmm
-Gratest Hits : https://www.youtube.com/watch?v=vGMI7Tdd014&list=PLRkypqpSISVuNhUGTlveY9V1L-ZCZvOU2
+#Elephant : https://www.youtube.com/watch?v=-VfnSZt-5pw&list=PLs0o3PLRiVDHm97sLphobH0Y7bhannZmm
+#Gratest Hits : https://www.youtube.com/watch?v=vGMI7Tdd014&list=PLRkypqpSISVuNhUGTlveY9V1L-ZCZvOU2
 
 Artist : U2
 #Best Of : https://www.youtube.com/watch?v=QdR-AONQ23U&list=PL0n75a7HekRJneQyEbIbJOSWo1ChCubr3
@@ -170,10 +166,4 @@ Artist : U2
 
 Artist : Others
 #Just dance : https://www.youtube.com/watch?v=MJTEt4aPhFQ&list=PLKILxJF99QvEgfY_lUdqcoSeXQuHfldbr
-
-
-
-
-
-
 

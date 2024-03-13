@@ -24,8 +24,19 @@ def remove_special_characters(input_string):
 
     # remove '
     input_string = re.sub("'", '', input_string)
+
+
+    # remove . except the one of the extention
+    string = ""
+    parts = input_string.split('.')
+    if len(parts) > 1:
+        for indice_p in range (len(parts) -1 ):
+            string += parts[indice_p]
+        string += "."
+        string += parts[-1]
+
     
-    return input_string
+    return string
 
 def download_and_convert(video_url_folder_name):
     """
@@ -50,9 +61,10 @@ def download_and_convert(video_url_folder_name):
         if audio_stream:
             # Generate a name for the audio file
             file_name = f'{yt.title}.mp3'
-            
+            clean_filename = remove_special_characters(file_name)
             # Check if the audio file already exists
-            test_path = os.path.join('audio', folder_name, remove_special_characters(file_name))
+            test_path = os.path.join('audio', folder_name, clean_filename)
+
             if os.path.exists(test_path):
                 print(f"{file_name} already exists. Skipping...")
                 return
