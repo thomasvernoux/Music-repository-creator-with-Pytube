@@ -34,7 +34,11 @@ def download_best_audio_playlist(playlist_url, folder_name):
     """
 
     playlist = Playlist(playlist_url)    # create the playlist object
-    for video in playlist.video_urls:  
+    print("len(playlist.video_urls) : ", len(playlist.video_urls))
+    i = 0
+    for video in playlist.video_urls:
+        i += 1
+        print("working : ", i, " / ", len(playlist.video_urls))
         yt = YouTube(video)              # create video object
         audio_stream = yt.streams.filter(only_audio=True).order_by('abr').desc().first()
         if audio_stream:
