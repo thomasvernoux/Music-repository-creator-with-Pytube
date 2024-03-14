@@ -55,7 +55,7 @@ def get_music_data(file):
     ARTISTS_LIST = []               # list of Artists objects
 
     # Open the file 'urls.txt' for reading
-    with open(f'downloader playlist/{file}', 'r') as file:
+    with open(f'{file}', 'r') as file:
         # Read each line, remove leading/trailing whitespace, and filter out lines starting with '#'
         lines = file.readlines()
 
@@ -95,7 +95,7 @@ def get_music_data(file):
             album.has_to_be_downloaded = True
     return ARTISTS_LIST
 
-def write_music_data(DATA, path = "downloader playlist/urls.txt"):
+def write_music_data(DATA, path = "urls.txt"):
 
     file = open(path, 'w')
 

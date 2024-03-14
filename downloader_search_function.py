@@ -15,7 +15,7 @@ from multiprocessing import Pool
 import logging
 
 
-playlist_name = "coups de coeur deezer.txt"
+
 
 
 
@@ -96,9 +96,8 @@ def download_wrapper(line_foldername):
     line, foldername = line_foldername
     return download_best_audio_from_search(line, foldername)
 
+def downloader_search_process(playlist_name):
 
-
-if __name__ == "__main__":
     with open('downloader_search_function/' + playlist_name, 'r') as file:
         lines = [line.strip() for line in file.readlines() if line.strip() and not line.startswith('#')]
 
@@ -108,6 +107,8 @@ if __name__ == "__main__":
     # Créez un pool de processus avec le nombre souhaité de processus
     with Pool() as pool:  
         results = pool.map(download_wrapper, lines_foldername)
+
+    return 
             
     
 

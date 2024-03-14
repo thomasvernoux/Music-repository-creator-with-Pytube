@@ -24,8 +24,8 @@ Artist : Black M
 #M Les yeux plus gros que le monde : https://www.youtube.com/watch?v=19rzrT7xyJ8&list=PLLLXWPtKay8O3XkNW2Ir0wAIBclLgIaLN
 
 Artist : Bob Dylan
-gratest hits : https://www.youtube.com/watch?v=90WD_ats6eE&list=PLpTHjAucqq9A2IDIsR8Ftbg7U6bKCMrcr
-All studios albums : https://www.youtube.com/watch?v=P7n9RIPED_E&list=PLQ_Roh_WF2omVsplAzj_4saSdZ5gVl6lP
+#gratest hits : https://www.youtube.com/watch?v=90WD_ats6eE&list=PLpTHjAucqq9A2IDIsR8Ftbg7U6bKCMrcr
+#All studios albums : https://www.youtube.com/watch?v=P7n9RIPED_E&list=PLQ_Roh_WF2omVsplAzj_4saSdZ5gVl6lP
 
 Artist : Bob Marley
 #Gratest hits : https://www.youtube.com/watch?v=R8GCc8OhTz8&list=PL1uvTe4OACGrBS_A06_-fK7dvVIX3Jq4F
@@ -43,17 +43,17 @@ Artist : Brother Dege
 #Scorched earth : https://www.youtube.com/watch?v=reQ7CL4LV74&list=PLDGkLoz_StY57c1_iSuTk83e1FBJ_rS9j
 
 Artist : Caamp
-mix : https://www.youtube.com/watch?v=9Obw1eEznec&list=PL9kagRpQ20lUDZNl24y3wpJ3K80RJYA7U
+#mix : https://www.youtube.com/watch?v=9Obw1eEznec&list=PL9kagRpQ20lUDZNl24y3wpJ3K80RJYA7U
 
 Artist : Charles and Eddie
-Duophonics : https://www.youtube.com/watch?v=dODr3d5GEuo&list=PLvFwdvxlUPuR6NwFKxrzCw-BDG8fns7HD
+#Duophonics : https://www.youtube.com/watch?v=dODr3d5GEuo&list=PLvFwdvxlUPuR6NwFKxrzCw-BDG8fns7HD
 
 Artist : David Guetta
 #Babe don't hurt me : https://www.youtube.com/watch?v=k3DBmAlUh1A&list=PLz1iM8YfFbTcqNChnY1uwvYTn8wxuTiZ7&pp=iAQB
 #Bests songs : https://www.youtube.com/watch?v=LRPGqNeav_M&list=PLgF5KLwzxU-1VKRj1SzbPHGwKVIKOIUe2
 
 Artist : Duffy
-playlist : https://www.youtube.com/watch?v=y7ZEVA5dy-Y&list=PL1A8A014DC213C694
+#playlist : https://www.youtube.com/watch?v=y7ZEVA5dy-Y&list=PL1A8A014DC213C694
 
 Artist : Eagles
 #Mix : https://www.youtube.com/watch?v=ESc2Tq2HzhQ&list=PLi-qDNLD8UfCXZW62wAsNe1jQD9lWmQi4
@@ -62,7 +62,7 @@ Artist : Eminem
 #Eimnem - Best Of : https://www.youtube.com/watch?v=_Yhyp-_hX2s&list=PLMEZyDHJojxNlKL-Pk06Za-1SMlBdQEMG
 
 Artist : Eric Clapton
-Official music videos : https://www.youtube.com/watch?v=DCU_Eye7fto&list=PLABGggHhsbEeaRtdzqnxYoEINsJE_4GF4
+#Official music videos : https://www.youtube.com/watch?v=DCU_Eye7fto&list=PLABGggHhsbEeaRtdzqnxYoEINsJE_4GF4
 
 Artist : Fatal Picards
 #Espece menacee (2019) : https://www.youtube.com/watch?v=5Km_djrfIaI&list=PLyseo58Sy9AzJdpVzBr0p7BJwH4PMOjW5
@@ -71,10 +71,10 @@ Artist : Fatal Picards
 #Pamplemousse mecanique : https://www.youtube.com/watch?v=iwYbK9VDfAY&list=PLncyoPlbpzRZk5dThBycO0TgG2z-itz2f
 
 Artist : Fauve
-Integrale : https://www.youtube.com/watch?v=iyaCGeST2kM&list=PLiGpx_3dxsI9LMX6GIKv0_z224tjJ27C9
+#Integrale : https://www.youtube.com/watch?v=iyaCGeST2kM&list=PLiGpx_3dxsI9LMX6GIKv0_z224tjJ27C9
 
-Artist : First aid PL42KTx9z1CViTCtg9SaeHh7O39rFAGQBV
-Mix : https://www.youtube.com/watch?v=gekHV9DIjHc&list=RDEMwsVESalnJRAPaCbEh8syDA&start_radio=1
+Artist : First aid Kit
+#Mix : https://www.youtube.com/watch?v=gekHV9DIjHc&list=RDEMwsVESalnJRAPaCbEh8syDA&start_radio=1
 
 Artist : Florence and the machine
 mix : https://www.youtube.com/watch?v=5GHXEGz3PJg&list=PLXeJUdMAw3Bw_4oKE44EQUN6CkcBkUSwi
