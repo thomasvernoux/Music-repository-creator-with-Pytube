@@ -13,13 +13,9 @@ def create_playlist_m3u(directory_path, playlist_name):
     playlist_path = os.path.join(directory_path, playlist_name, playlist_name + '.m3u')
     with open(playlist_path, 'w') as playlist_file:
         # Parcourir le répertoire et ses sous-répertoires
-        for root, dirs, files in os.walk(directory_path):
-            for file in files:
-                # Vérifier si le fichier est une musique (extension MP3, WAV, etc.)
-                if file.endswith(('.mp3', '.wav', '.flac', '.aac', '.ogg')):
-                    # Écrire le chemin relatif de la musique dans la playlist M3U
-                    relative_path = os.path.relpath(os.path.join(root, file), directory_path)
-                    playlist_file.write(relative_path + '\n')
+        for file in os.listdir(f"{directory_path}/{playlist_name}"):
+            if file.endswith(".mp3"):
+                playlist_file.write(f"{file}\n")
 
     print(f"Playlist M3U créée avec succès : {playlist_path}")
 
@@ -39,4 +35,3 @@ def update_all_playlists_m3u():
     for directory in Directories : 
         update_playlists_m3u_in_directory(directory)
 
-update_all_playlists_m3u()

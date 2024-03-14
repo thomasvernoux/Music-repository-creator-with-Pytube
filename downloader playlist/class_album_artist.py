@@ -24,7 +24,6 @@ class Album:
             except Exception as e:
                 print("Exception error:", e)
             
-
 class Artist:
     def __init__(self):
         self.name = None
@@ -44,8 +43,7 @@ class Artist:
 
         for album in self.albums_list :
             album.download()
-            global MUSIC_DATA
-            write_music_data(MUSIC_DATA)
+            
 
 
 
@@ -112,15 +110,7 @@ def write_music_data(DATA, path = "downloader playlist/urls.txt"):
     file.close()
 
 
-path = "urls.txt"
 
-if __name__ == "__main__":
 
-    global MUSIC_DATA
-    MUSIC_DATA = get_music_data(path)
-    for artist in MUSIC_DATA : 
-        artist.download_music()
-
-    write_music_data(MUSIC_DATA, path = f"downloader playlist/{path}")
         
 
