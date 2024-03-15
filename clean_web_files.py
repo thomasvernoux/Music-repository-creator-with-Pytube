@@ -12,6 +12,3 @@ def supprimer_fichiers_web(repertoire):
         elif os.path.isdir(chemin):
             supprimer_fichiers_web(chemin)
 
-# Utilisation de la fonction
-repertoire_a_purger = 'audio'
-supprimer_fichiers_web(repertoire_a_purger)

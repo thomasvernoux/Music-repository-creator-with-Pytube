@@ -48,6 +48,9 @@ Artist : Caamp
 Artist : Charles and Eddie
 #Duophonics : https://www.youtube.com/watch?v=dODr3d5GEuo&list=PLvFwdvxlUPuR6NwFKxrzCw-BDG8fns7HD
 
+Artist : David Bowie
+#Gratest hits : https://www.youtube.com/watch?v=VbD_kBJc_gI&list=PLUhqFX6g_9NeslrJOs4G1FvpM4l6P2syU
+
 Artist : David Guetta
 #Babe don't hurt me : https://www.youtube.com/watch?v=k3DBmAlUh1A&list=PLz1iM8YfFbTcqNChnY1uwvYTn8wxuTiZ7&pp=iAQB
 #Bests songs : https://www.youtube.com/watch?v=LRPGqNeav_M&list=PLgF5KLwzxU-1VKRj1SzbPHGwKVIKOIUe2
@@ -77,7 +80,7 @@ Artist : First aid Kit
 #Mix : https://www.youtube.com/watch?v=gekHV9DIjHc&list=RDEMwsVESalnJRAPaCbEh8syDA&start_radio=1
 
 Artist : Florence and the machine
-mix : https://www.youtube.com/watch?v=5GHXEGz3PJg&list=PLXeJUdMAw3Bw_4oKE44EQUN6CkcBkUSwi
+#mix : https://www.youtube.com/watch?v=5GHXEGz3PJg&list=PLXeJUdMAw3Bw_4oKE44EQUN6CkcBkUSwi
 
 Artist : Grand corps malade
 #Best of : https://www.youtube.com/watch?v=WXMf8UN1sXI&list=PLkezPydZpc2uPYil2NVyZHTDwydQmJFo0
@@ -89,7 +92,7 @@ Artist : Gun'N'Roses
 #Use your illusion : https://www.youtube.com/watch?v=4cQg8k3Znvw&list=PLDNtAuXIhbEMqUhkgW0Z6M2WgT5XeO7lE
 
 Artist : Imaginary friends
-Ultimae record : https://www.youtube.com/watch?v=Wj1blZCmSRU&list=PLrz8hHdG8-5CHpBB-LuZrhAdFlGrfRMCD
+#Ultimae record : https://www.youtube.com/watch?v=Wj1blZCmSRU&list=PLrz8hHdG8-5CHpBB-LuZrhAdFlGrfRMCD
 
 Artist : Indochine
 #Best Of : https://www.youtube.com/watch?v=eP1iPYtHSy0&list=PLasDED1MNcveCRfVKmzkvZ3aC2b95QS0j
@@ -105,14 +108,14 @@ Artist : Jean-Jacques Goldman
 #Toutes les chansons : https://www.youtube.com/watch?v=o3hX0DU1QoI&list=PLmghTOZMibUkAWPcPW00JntpJZaD7L6wf
 
 Artist : Jet
-Best of : https://www.youtube.com/watch?v=mAxUIjJrFKQ&list=PL8A3E456294F20DB6
+#Best of : https://www.youtube.com/watch?v=mAxUIjJrFKQ&list=PL8A3E456294F20DB6
 
 Artist : Johnny halliday
-best of : https://www.youtube.com/watch?v=Xs-_NZ0LhrA&list=PLzPMWQBYT91TLF2HjrEFwNx5S-Q0mY9fE
-Mon pays c'est l'amour : https://www.youtube.com/watch?v=CobeBZNlR8E&list=PLOAPZjcL-fxtTa6Y06NfibxZV2QmBxmxf&pp=iAQB
+#best of : https://www.youtube.com/watch?v=Xs-_NZ0LhrA&list=PLzPMWQBYT91TLF2HjrEFwNx5S-Q0mY9fE
+#Mon pays c'est l'amour : https://www.youtube.com/watch?v=CobeBZNlR8E&list=PLOAPZjcL-fxtTa6Y06NfibxZV2QmBxmxf&pp=iAQB
 
 Artist : Kasabian
-kasabian playlist : https://www.youtube.com/watch?v=iNgPJRDWT5g&list=PL3-az_aQBFuLhuP91l2EdYZiB-UyTmgQ-
+#kasabian playlist : https://www.youtube.com/watch?v=iNgPJRDWT5g&list=PL3-az_aQBFuLhuP91l2EdYZiB-UyTmgQ-
 
 Artist : Les marins d'iroise
 #La mer est immense : https://www.youtube.com/watch?v=DAmqDVayiGo&list=OLAK5uy_kL4aUHlRmLEStqtzjX3G5y1d1CWsGcZuA
@@ -156,7 +159,7 @@ Artist : Passenger
 #All the little lights : https://www.youtube.com/watch?v=1ItrO33Hg48&list=PLc5JlTItu4Rf-D_ecUHxXJ5zcxi_YdgXq
 
 Artist : Peps
-Les voies du peuple : https://www.youtube.com/watch?v=Nx7cT6dP5Xk&list=PLWOIaswH85T-OVSahbdaFQs2FuStTeYfQ
+#Les voies du peuple : https://www.youtube.com/watch?v=Nx7cT6dP5Xk&list=PLWOIaswH85T-OVSahbdaFQs2FuStTeYfQ
 
 Artist : Pink Floyd
 #The Wall : https://www.youtube.com/watch?v=iLFwTqdsuxw&list=PLyDzU3p8FP24syYfTXpGqTDHsQhlxwllS
@@ -166,15 +169,15 @@ Artist : Playlists
 #Hard rock, hard bod : https://www.youtube.com/watch?v=_pmZKkb_UAg&list=RDCLAK5uy_lzB6nj0ob7hek-ioXrT29KKMrjqyTDN5w&start_radio=1
 #Gym hardstyle : https://www.youtube.com/watch?v=Sjt-ctWp41c&list=PLfja-fNLrp00Vk3ms6JTyAnitKgaWf8oO
 #Gym motivation 2019 : https://www.youtube.com/watch?v=iqqkxCGvmpo&list=PL4AkG0oDrFIEyAHlGmFZRr6R1yu-sgRRQ
-Cardio and Hit workout : https://www.youtube.com/watch?v=qoxHy7N4Vog&list=PLipSZg1JNsC8L7wY0sKMkU_N6T5uEBKU_
-Musique sport : https://www.youtube.com/watch?v=JGwWNGJdvx8&list=PLwK6zLqfsVUJFeo1OqnrRa4vmy3Q0Ixye
-PLaylist sport booster : https://www.youtube.com/watch?v=U9Im71aNhYA&list=PLUInpELRS8HF92C_CNSiA9bBS4UgxTxHf
-Workout playliste 2024 : https://www.youtube.com/watch?v=ZDZiXmCl4pk&list=PLu0ocO48LFms5WsI1ipaeanxqRjn2fC_5
+#Cardio and Hit workout : https://www.youtube.com/watch?v=qoxHy7N4Vog&list=PLipSZg1JNsC8L7wY0sKMkU_N6T5uEBKU_
+#Musique sport : https://www.youtube.com/watch?v=JGwWNGJdvx8&list=PLwK6zLqfsVUJFeo1OqnrRa4vmy3Q0Ixye
+#PLaylist sport booster : https://www.youtube.com/watch?v=U9Im71aNhYA&list=PLUInpELRS8HF92C_CNSiA9bBS4UgxTxHf
+#Workout playliste 2024 : https://www.youtube.com/watch?v=ZDZiXmCl4pk&list=PLu0ocO48LFms5WsI1ipaeanxqRjn2fC_5
 
 Artist : Queen
 #Gratest hits : https://www.youtube.com/watch?v=NyvkmlQVEaA&list=PLFmdBbF3cYpzD5W_o0Lzr6KzG2nSBHjQz
-Queen : https://www.youtube.com/watch?v=NNXEarSxGQ0&list=PLBnJv6rImVe_RJ8-fSQ3OQkYnGxLDFYc-
-The game : https://www.youtube.com/watch?v=Dr0Gf6OzdBM&list=PLBnJv6rImVe8bdTn3KfefBucmEbFE2OrL
+#Queen : https://www.youtube.com/watch?v=NNXEarSxGQ0&list=PLBnJv6rImVe_RJ8-fSQ3OQkYnGxLDFYc-
+#The game : https://www.youtube.com/watch?v=Dr0Gf6OzdBM&list=PLBnJv6rImVe8bdTn3KfefBucmEbFE2OrL
 
 Artist : Rammstein
 #mix : https://www.youtube.com/watch?v=PBvwcH4XX6U&list=PLOUzUrKhNae51rhMgkY_v1BWWISuvjmkk
@@ -187,12 +190,12 @@ Artist : Rammstein
 #Herzeleid (1995) : https://www.youtube.com/watch?v=uFM89wgvXBc&list=PLfEZ2UIciT73a42hQslGpHcv_MmR393mb
 
 Artist : Red Hot Chilly Peppers
-Freaky Stylet repastered : https://www.youtube.com/watch?v=Q5-QqK2tMfc&list=PLGK9cQwEH-6tKwypOBwW5bEkufoTC0eXv
-The red hot chilly peppers : https://www.youtube.com/watch?v=3XxdGTi_EZU&list=PLx3yLVvQp0FGM9AOGQaAlh_V72RO_77QA
-By the way : https://www.youtube.com/watch?v=6GMKYueN4mM&list=PLyWB0TxTMmTk-BkqJn13hFDtKioUSFlpE
-Californication : https://www.youtube.com/watch?v=iiupU-K_TKE&list=PLyWB0TxTMmTk0UXaMII3u8AawVbLney6N
-The gateway : https://www.youtube.com/watch?v=r2TUch2JqVI&list=PLygnHCqOrLc9TF980BWWJ4yeW53Gg-Vof
-Unlimited love : https://www.youtube.com/watch?v=7wZJF7QGmeg&list=PL67cMGyeB5sENp3CDdx-QBVoWf-ExRw0m
+#Freaky Stylet repastered : https://www.youtube.com/watch?v=Q5-QqK2tMfc&list=PLGK9cQwEH-6tKwypOBwW5bEkufoTC0eXv
+#The red hot chilly peppers : https://www.youtube.com/watch?v=3XxdGTi_EZU&list=PLx3yLVvQp0FGM9AOGQaAlh_V72RO_77QA
+#By the way : https://www.youtube.com/watch?v=6GMKYueN4mM&list=PLyWB0TxTMmTk-BkqJn13hFDtKioUSFlpE
+#Californication : https://www.youtube.com/watch?v=iiupU-K_TKE&list=PLyWB0TxTMmTk0UXaMII3u8AawVbLney6N
+#The gateway : https://www.youtube.com/watch?v=r2TUch2JqVI&list=PLygnHCqOrLc9TF980BWWJ4yeW53Gg-Vof
+#Unlimited love : https://www.youtube.com/watch?v=7wZJF7QGmeg&list=PL67cMGyeB5sENp3CDdx-QBVoWf-ExRw0m
 
 Artist : Shaka Ponk
 #Shaka Ponk Best Of : https://www.youtube.com/watch?v=EF2PGnZmXCI&list=PLMEZyDHJojxNjp8fxfCtda8kmzMowOMRE
@@ -224,8 +227,8 @@ Artist : The Black Keys
 #The black keys - El Camino : https://www.youtube.com/watch?v=9DYPfItb2fk&list=PL81_CtYCym28wjmLK7DadBj3TVZB-FpMQ
 
 Artist : The Bravery
-Mix : https://www.youtube.com/watch?v=Rv2OyI0nXEE&list=PLXKHuYsS0YDC1xLWx7CP0iJyQbRMLx5t_
-self titled album : https://www.youtube.com/watch?v=O8vzbezVru4&list=PLC29ED6FC535F24F3
+#Mix : https://www.youtube.com/watch?v=Rv2OyI0nXEE&list=PLXKHuYsS0YDC1xLWx7CP0iJyQbRMLx5t_
+#self titled album : https://www.youtube.com/watch?v=O8vzbezVru4&list=PLC29ED6FC535F24F3
 
 Artist : The Rolling Stones
 #Black and Blue remastered : https://www.youtube.com/watch?v=pyKD42lPQaY&list=PLo2aaBamFnLSaRINmGjaCKdFwMVTFvoQm
@@ -246,8 +249,8 @@ Artist : The white Stripes
 #Gratest Hits : https://www.youtube.com/watch?v=vGMI7Tdd014&list=PLRkypqpSISVuNhUGTlveY9V1L-ZCZvOU2
 
 Artist : Tones and I
-Welcom to the madhouse : https://www.youtube.com/watch?v=8NDGrkz9jck&list=PL67cMGyeB5sG7BxuprvxE3jlTtm3dpY6m
-Gratest hits : https://www.youtube.com/watch?v=R0vu5QfsD5E&list=PLp_G0HWfCo5ov9X7nwKXzZI1L47HJMJ8d
+#Welcom to the madhouse : https://www.youtube.com/watch?v=8NDGrkz9jck&list=PL67cMGyeB5sG7BxuprvxE3jlTtm3dpY6m
+#Gratest hits : https://www.youtube.com/watch?v=R0vu5QfsD5E&list=PLp_G0HWfCo5ov9X7nwKXzZI1L47HJMJ8d
 
 Artist : Téléphone
 #Téléphone Mix : https://www.youtube.com/watch?v=OGNhncQLQJA&list=RDEM1meYlu09Fx1JEH-_75B5PA&start_radio=1
@@ -263,7 +266,7 @@ Artist : U2
 #remastered videos : https://www.youtube.com/watch?v=h7p4BjD7wb8&list=PL80sr_OFD9CH6JZfa-xoWRysg21KwrDjX
 
 Artist : Worakis
-Best of : https://www.youtube.com/watch?v=Pz29ToCtd1U&list=PL6ZJ6SRqO5nf2jt_gbru7fDw63h-yizw9
-Coeur de la nuit : https://www.youtube.com/watch?v=5y2GolcfFT0&list=PLqLUViPTk3PuxiFw0nZROwB5gNNsixiyd
-Worakis album : https://www.youtube.com/watch?v=Pz29ToCtd1U&list=PLBHz_NLgSM9glStihce_bGNqHQlb5MSH4
+#Best of : https://www.youtube.com/watch?v=Pz29ToCtd1U&list=PL6ZJ6SRqO5nf2jt_gbru7fDw63h-yizw9
+#Coeur de la nuit : https://www.youtube.com/watch?v=5y2GolcfFT0&list=PLqLUViPTk3PuxiFw0nZROwB5gNNsixiyd
+#Worakis album : https://www.youtube.com/watch?v=Pz29ToCtd1U&list=PLBHz_NLgSM9glStihce_bGNqHQlb5MSH4
 

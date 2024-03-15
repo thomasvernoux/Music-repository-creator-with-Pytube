@@ -5,14 +5,14 @@ from moviepy.editor import AudioFileClip  # Import the AudioFileClip class from 
 import os  # Import the os module for interacting with the operating system
 import re
 
+from globales_variables import *
 from multiprocessing import Pool
 
 def remove_special_characters(input_string):
     """
     This function is used to transform a input string into output string without specials caracters
-    
     """
-
+    
     # Remove emojis
     input_string = input_string.encode('ascii', 'ignore').decode('ascii')
 
@@ -35,7 +35,65 @@ def remove_special_characters(input_string):
         string += "."
         string += parts[-1]
 
+    characters_to_remove = ["'",
+                            "?",
+                            ]
     
+    for c in characters_to_remove :
+        string = string.replace(c, "")
+
+
+
+    return string
+
+def remove_special_characters_from_filename(input_string):
+    """
+    This function is used to transform a input string into output string without specials caracters
+    """
+    
+    # Remove emojis
+    input_string = input_string.encode('ascii', 'ignore').decode('ascii')
+
+    # Define allowed characters including slashes and periods
+    allowed_characters = r'[a-zA-Z0-9\s\\/.-]'
+
+    # Remove special characters using regex
+    input_string = re.sub(fr'[^{allowed_characters}]', '', input_string)
+
+    # remove '
+    input_string = re.sub("'", '', input_string)
+
+
+    # remove . except the one of the extention
+    string = ""
+    parts = input_string.split('.')
+    if len(parts) > 1:
+        for indice_p in range (len(parts) -1 ):
+            string += parts[indice_p]
+        string += "."
+        string += parts[-1]
+
+    characters_to_remove = ["'",
+                            "?",
+                            "/",
+                            "\\",
+                            ",",
+                            '"',
+                            ";",
+                            "-",
+                            "(",
+                            ")",
+                            "é",
+                            "è",
+                            "à",
+                            "#"
+                            ]
+    
+    for c in characters_to_remove :
+        string = string.replace(c, "")
+
+
+
     return string
 
 def download_and_convert(video_url_folder_name):
@@ -61,7 +119,7 @@ def download_and_convert(video_url_folder_name):
         if audio_stream:
             # Generate a name for the audio file
             file_name = f'{yt.title}.mp3'
-            clean_filename = remove_special_characters(file_name)
+            clean_filename = remove_special_characters_from_filename(file_name)
             # Check if the audio file already exists
             test_path = os.path.join('audio', folder_name, clean_filename)
 
@@ -89,6 +147,7 @@ def download_and_convert(video_url_folder_name):
             mp4_audio.write_audiofile(mp3_audio_path)
             mp4_audio.close()
 
+
             # Delete the .webm file after conversion
             os.remove(audio_path)
             print(f".webm file deleted for {yt.title}")
@@ -96,7 +155,7 @@ def download_and_convert(video_url_folder_name):
         else:
             print(f"No audio stream available for {yt.title}.")
     except Exception as e:
-        print(f"Error processing video URL {video_url}: {e}")
+        print(f"Error processing video URL {str(video_url_folder_name)}: {e}")
 
 def download_best_audio_playlist(playlist_url, folder_name):
     """
@@ -116,9 +175,12 @@ def download_best_audio_playlist(playlist_url, folder_name):
     video_url_folder_name_list = [(video, folder_name) for video in playlist.video_urls]
 
     # Use multiprocessing to parallelize the downloading and conversion process
-    with Pool() as pool:
+    with Pool(get_variable_thread_number()) as pool:
         # Map the download_and_convert function to each tuple in the list
         pool.map(download_and_convert, video_url_folder_name_list)
+
+        pool.close()
+        pool.join()
 
 
 

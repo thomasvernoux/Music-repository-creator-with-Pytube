@@ -62,6 +62,10 @@ def metadata_test(Path):
     """
     metadata = read_metadata(Path)
 
+    for m in metadata :
+        if metadata[m] == "Not found":
+            return True
+
     if not metadata:
         return False  # No metadata found
 
@@ -97,12 +101,22 @@ def get_audio_path_list(path):
 def metadata_process(Path):
 
     path_list = get_audio_path_list(Path)
-
+    print("len path list : ", len(path_list))
+    i = 0
     for Path_song in path_list :
+        i += 1
+        print("avancement : ", round(100*i/len(path_list), 2))
         loop = asyncio.get_event_loop()
         song_info = loop.run_until_complete(get_song_info(Path_song))
         if song_info == None : 
+            song_info = {}
             print(f"song_info == None for : {Path_song}")
+            song_info["title"] = "Not found"
+            song_info["artist"] = "Not found"
+            song_info["album"] = "Not found"
+            song_info["date"] = "Not found"
+            song_info["genre"] = "Not found"
+            write_metadata(Path_song, song_info)
             continue
         else :
             write_metadata(Path_song, song_info)
@@ -120,25 +134,3 @@ def metadata_process(Path):
 
 
 
-"""
-
-directory = "test/Burnin"
-for root, dirs, files in os.walk(directory):
-        for file in files:
-            # Check if the file has a .mp3 extension
-            if file.endswith(".mp3"):
-                file_path = os.path.join(root, file)
-
-                metadata = read_metadata(file_path)
-                print("Current metadata:", metadata)
-                delete_metadata(file_path)
-                
-                metadata["title"] = "AAA"
-                metadata["artist"] = "New Artist"
-                metadata["album"] = "New Album"
-                metadata["year"] = "2000"
-                write_metadata(file_path, metadata)
-
-                delete_metadata(file_path)
-
-"""

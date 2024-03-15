@@ -17,12 +17,13 @@ class Album:
         
         if self.has_to_be_downloaded :
             self.folder_name = f"{self.artist}/{self.name}"
-            try : 
-                download_best_audio_playlist(self.URL, self.folder_name)
-                self.has_to_be_downloaded = False
+            
+            download_best_audio_playlist(self.URL, self.folder_name)
+            self.has_to_be_downloaded = False
 
-            except Exception as e:
-                print("Exception error:", e)
+
+
+        return self
             
 class Artist:
     def __init__(self):
@@ -42,7 +43,10 @@ class Artist:
     def download_music(self):
 
         for album in self.albums_list :
-            album.download()
+            album = album.download()
+
+    
+
             
 
 
@@ -82,11 +86,7 @@ def get_music_data(file):
         album.URL = album.URL.replace("\n", "")
         ARTISTS_LIST[-1].albums_list.append(album)
 
-        """
-        Debug
-        """
-        if album.name.startswith("Complete"):
-            a = 3
+
 
         # Check if the line start with '#'
         if line[0] == "#":

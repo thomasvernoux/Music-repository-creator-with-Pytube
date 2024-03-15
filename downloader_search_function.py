@@ -6,6 +6,10 @@ import re
 import traceback
 import sys
 
+from globales_variables import *
+
+from functions import *
+
 sys.path.append('./')
 from playlist_m3u import *
 
@@ -15,18 +19,6 @@ from multiprocessing import Pool
 import logging
 
 
-
-
-
-
-def remove_special_characters(input_string):
-    # Remplacer les emojis par une chaîne vide
-    input_string = input_string.encode('ascii', 'ignore').decode('ascii')
-
-    # Supprimer les caractères spéciaux à l'aide d'une expression régulière
-    input_string = re.sub(r'[^\w\s./\\]', '', input_string)
-
-    return input_string
 
 def download_best_audio_from_search(song_name, folder_name):
     results = Search(song_name)
@@ -42,11 +34,11 @@ def download_best_audio_from_search(song_name, folder_name):
     if audio_stream:
         # Générer le nom de fichier pour la chanson
         file_name = f'{yt.title}.mp3'
-        
+        clean_filename = remove_special_characters_from_filename(file_name)
         # Vérifier si le fichier existe déjà dans le répertoire cible
-        if os.path.exists(os.path.join(folder_name, remove_special_characters(file_name))):
+        if os.path.exists(os.path.join(folder_name, clean_filename)):
             print(f"{file_name} already exists. Skipping...")
-            return f"audio/{folder_name}/{mp3_filename}"  # Passer à la prochaine chanson
+            return f"audio/{folder_name}/"  # Passer à la prochaine chanson
 
        
         # download directory
@@ -98,14 +90,14 @@ def download_wrapper(line_foldername):
 
 def downloader_search_process(playlist_name):
 
-    with open('downloader_search_function/' + playlist_name, 'r') as file:
+    with open(playlist_name, 'r') as file:
         lines = [line.strip() for line in file.readlines() if line.strip() and not line.startswith('#')]
 
     foldername = os.path.splitext(playlist_name)[0]
     lines_foldername = [(line, foldername) for line in lines]
 
     # Créez un pool de processus avec le nombre souhaité de processus
-    with Pool() as pool:  
+    with Pool(get_variable_thread_number()) as pool:  
         results = pool.map(download_wrapper, lines_foldername)
 
     return 
